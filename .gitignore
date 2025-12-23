@@ -1,16 +1,11 @@
-# Python
+# Python / venv
+.venv/
 __pycache__/
 *.pyc
-.venv/
-venv/
-.env
 
 # OS junk
 .DS_Store
 Thumbs.db
 
-# Jupyter (if you ever add notebooks)
-.ipynb_checkpoints/
-
-# Generated artifacts (keep figs if you want them tracked; your choice)
-# figs/
+# Optional: logs
+*.log

@@ -1,0 +1,743 @@
+covered_entity,state,entity_type,individuals_affected,submission_date,breach_type,breach_location,ba_present,web_description,year,month
+Adventist HealthCare,MD,Healthcare Provider,1300,2025-11-13,Loss,Paper/Films,Yes,,2025,2025-11-01
+Synergy Advanced Healthcare LLC,CT,Healthcare Provider,1260,2025-11-04,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2025,2025-11-01
+Conduent Business Services LLC,NJ,Business Associate,42616,2025-10-08,Hacking/IT Incident,Network Server,Yes,,2025,2025-10-01
+"Revere Health, PC",UT,Healthcare Provider,10800,2025-10-02,Hacking/IT Incident,Network Server,No,,2025,2025-10-01
+Innovative Physical Therapy,IL,Healthcare Provider,2023,2025-10-02,Hacking/IT Incident,Email,Yes,,2025,2025-10-01
+"Belkorp Ag, LLC",CA,Health Plan,942,2025-09-29,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+"Thomas Davies, DPM",NY,Healthcare Provider,14581,2025-09-29,Hacking/IT Incident,Electronic Medical Record,No,,2025,2025-09-01
+Intercommunity Action Inc.,PA,Healthcare Provider,2680,2025-09-26,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+Doctors Imaging Group,FL,Healthcare Provider,171862,2025-09-24,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+"Outcomes One, Inc.",FL,Business Associate,150544,2025-09-23,Hacking/IT Incident,Email,Yes,,2025,2025-09-01
+Healthcare Interactive,MD,Business Associate,501,2025-09-22,Hacking/IT Incident,Network Server,Yes,,2025,2025-09-01
+"City of St. Joseph, MO Health Department",MO,Healthcare Provider,11538,2025-09-22,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+UNC Hospitals,NC,Healthcare Provider,6377,2025-09-19,Hacking/IT Incident,Email,No,,2025,2025-09-01
+People Encouraging People,MD,Healthcare Provider,13083,2025-09-19,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+The University of North Carolina at Chapel Hill - School of Medicine,NC,Healthcare Provider,799,2025-09-19,Hacking/IT Incident,Email,No,,2025,2025-09-01
+"Health & Palliative Services of the Treasure Coast, Inc d/b/a Treasure Coast Hospice  (“Treasure Health ”)",FL,Healthcare Provider,13234,2025-09-19,Unauthorized Access/Disclosure,Email,No,,2025,2025-09-01
+Sun Valley Surgery Center,NV,Healthcare Provider,27001,2025-09-18,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+Sturgis Hospital,MI,Health Plan,77771,2025-09-18,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+Sturgis Hospital,MI,Healthcare Provider,77771,2025-09-18,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+Goshen Medical Center,NC,Healthcare Provider,456385,2025-09-17,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+Trusteed Plan Services Corporation,WA,Business Associate,1099,2025-09-17,Hacking/IT Incident,Network Server,Yes,,2025,2025-09-01
+Munson Healthcare,MI,Healthcare Provider,1186,2025-09-17,Unauthorized Access/Disclosure,Paper/Films,No,,2025,2025-09-01
+Saint Anthony Hospital,IL,Healthcare Provider,6679,2025-09-12,Hacking/IT Incident,Email,No,,2025,2025-09-01
+Cookeville Regional Medical Center,TN,Healthcare Provider,500,2025-09-12,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+Hampton Regional Medical Center,SC,Healthcare Provider,501,2025-09-12,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+"Roush Fenway Keselowski Racing, LLC",NC,Health Plan,2160,2025-09-12,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+"Franklin Dermatology Group, PLC",TN,Healthcare Provider,2457,2025-09-11,Hacking/IT Incident,Network Server,Yes,,2025,2025-09-01
+Western Skies Wellness LLC,OR,Healthcare Provider,1700,2025-09-11,Unauthorized Access/Disclosure,"Electronic Medical Record, Other",No,,2025,2025-09-01
+"PGA Development, Inc.",PA,Healthcare Provider,23899,2025-09-10,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+Texas Center for Infectious Disease Associates,TX,Healthcare Provider,1236,2025-09-10,Hacking/IT Incident,Email,No,,2025,2025-09-01
+Coos County Family Health Services,NH,Healthcare Provider,501,2025-09-05,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+Somerset County Children and Youth Services,PA,Healthcare Provider,2251,2025-09-05,Hacking/IT Incident,Email,No,,2025,2025-09-01
+"Medical Associates of Brevard, LLC",FL,Healthcare Provider,246711,2025-09-05,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+Twin Cities Pain Clinic,MN,Healthcare Provider,3572,2025-09-04,Hacking/IT Incident,Email,No,,2025,2025-09-01
+Retina Group of Florida,FL,Healthcare Provider,152691,2025-09-03,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+Teamsters Union 25 Health Services & Insurance Plan,MA,Health Plan,19231,2025-09-03,Hacking/IT Incident,Network Server,No,,2025,2025-09-01
+Sentara Health,VA,Healthcare Provider,696,2025-09-03,Unauthorized Access/Disclosure,Paper/Films,No,,2025,2025-09-01
+"La Perouse, LLC",NV,Business Associate,501,2025-09-02,Hacking/IT Incident,Network Server,Yes,,2025,2025-09-01
+North Oaks Health System,LA,Healthcare Provider,6243,2025-09-02,Hacking/IT Incident,Email,No,,2025,2025-09-01
+University of Iowa Community Home Care,IA,Healthcare Provider,109029,2025-08-29,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+University of Iowa Health Care,IA,Healthcare Provider,101875,2025-08-29,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+"Meridian Valley Laboratories, Inc.",WA,Healthcare Provider,501,2025-08-29,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+"Carrollton Ear, Nose and Throat, PC",GA,Healthcare Provider,3569,2025-08-29,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+Reimagine Network,CA,Healthcare Provider,4799,2025-08-29,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+Anthony L. Jordan Health Corporation,NY,Healthcare Provider,2974,2025-08-29,Hacking/IT Incident,Email,No,,2025,2025-08-01
+Northwest Medical Specialties PLLC,WA,Healthcare Provider,3864,2025-08-28,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+Children's Center of Hamden,CT,Healthcare Provider,5213,2025-08-28,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+College Hometown Pharmacy,NY,Healthcare Provider,9742,2025-08-25,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+College Parkside Pharmacy,NY,Healthcare Provider,5736,2025-08-25,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+"Assisted Living Pharmacy Service, LLC",WI,Healthcare Provider,5590,2025-08-25,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+Prime Therapeutics LLC,MN,Business Associate,2266,2025-08-25,Unauthorized Access/Disclosure,Laptop,Yes,,2025,2025-08-01
+"Pacific Imaging Management, LLC",CA,Healthcare Provider,13158,2025-08-25,Hacking/IT Incident,Email,No,,2025,2025-08-01
+Woodlawn Hospital,IN,Healthcare Provider,500,2025-08-25,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+zizzl llc,WI,Business Associate,2416,2025-08-22,Hacking/IT Incident,Email,Yes,,2025,2025-08-01
+Beech Acres Parenting Center,OH,Healthcare Provider,19315,2025-08-22,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+"Department of Social Services for Vance County, North Carolina",NC,Business Associate,501,2025-08-22,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+McEwen & Associates,TX,Business Associate,500,2025-08-21,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+McEwen & Associates,TX,Business Associate,500,2025-08-21,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+McEwen & Associates,TX,Business Associate,500,2025-08-21,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+"Vital Imaging Medical Diagnostic Centers, LLC",FL,Healthcare Provider,260000,2025-08-21,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+"Preferred Hospital Leasing Hemphill Inc., d/b/a Sabine County Hospital",TX,Healthcare Provider,7600,2025-08-21,Hacking/IT Incident,Email,No,,2025,2025-08-01
+Arkansas Primary Care Clinic,AR,Healthcare Provider,2491,2025-08-20,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+Aspire Rural Health System,MI,Healthcare Provider,138386,2025-08-20,Unauthorized Access/Disclosure,Network Server,No,,2025,2025-08-01
+Indiana Exceptional Medical care LLC,IN,Healthcare Provider,1850,2025-08-20,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2025,2025-08-01
+Revere Health PC,UT,Healthcare Provider,605,2025-08-19,Hacking/IT Incident,Desktop Computer,No,,2025,2025-08-01
+Behavioral Health Group,TX,Healthcare Provider,597,2025-08-19,Hacking/IT Incident,Email,No,,2025,2025-08-01
+"CareTracker, Inc.",NY,Business Associate,501,2025-08-18,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+"Pediatric Otolaryngology Head & Neck Surgery Associates, P.A.",FL,Healthcare Provider,43446,2025-08-18,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+CPAP Medical Supplies and Services Inc.,FL,Healthcare Provider,90133,2025-08-15,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+Cancer Care Center of North Florida,FL,Healthcare Provider,1798,2025-08-15,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+"Lake City Cancer Care, LLC",FL,Healthcare Provider,9980,2025-08-15,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+Mower County Health and Human Services,MN,Healthcare Provider,501,2025-08-15,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+Welcome Dentistry,CA,Healthcare Provider,1001,2025-08-15,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+Children's Home & Aid dba Brightpoint,IL,Healthcare Provider,1051,2025-08-14,Hacking/IT Incident,Email,No,,2025,2025-08-01
+Welcome Dentistry,CA,Healthcare Provider,1001,2025-08-13,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+UnitedHealthcare,CT,Health Plan,3215,2025-08-12,Unauthorized Access/Disclosure,Paper/Films,No,,2025,2025-08-01
+"Laurel Cancer Care, LLC",MS,Healthcare Provider,1541,2025-08-12,Hacking/IT Incident,Email,Yes,,2025,2025-08-01
+"Kathalene Keller Riney NP, LLC DBA Life in Motion Family Wellness Center",IN,Healthcare Provider,3747,2025-08-12,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2025,2025-08-01
+Zelis Healthcare LLC,MA,Business Associate,4289,2025-08-12,Unauthorized Access/Disclosure,Paper/Films,Yes,,2025,2025-08-01
+Altos Inc,CA,Business Associate,1634,2025-08-11,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+Altos Inc,CA,Business Associate,1520,2025-08-11,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+Altos Inc,CA,Business Associate,1011,2025-08-11,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+Altos Inc,CA,Business Associate,882,2025-08-11,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+Integrated Orthopedics of Arizona,AZ,Healthcare Provider,2916,2025-08-11,Hacking/IT Incident,Email,No,,2025,2025-08-01
+Altos Inc,CA,Business Associate,2366,2025-08-11,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+Altos Inc,CA,Business Associate,2700,2025-08-11,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+Altos Inc,CA,Business Associate,6414,2025-08-11,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+Dr. Doug's Pediatric Dentistry,UT,Healthcare Provider,3590,2025-08-11,Hacking/IT Incident,Email,No,,2025,2025-08-01
+Anderson & Kreiger LLP,MA,Business Associate,1607,2025-08-08,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+Aflac Incorporated (“Aflac”),GA,Health Plan,500,2025-08-08,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+Friesen Group,CA,Healthcare Provider,500,2025-08-08,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+"Center for Disability Services, Inc.",NY,Healthcare Provider,3343,2025-08-08,Hacking/IT Incident,Email,No,,2025,2025-08-01
+PROVAIL,WA,Healthcare Provider,501,2025-08-08,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+South Coast Pediatrics,CA,Healthcare Provider,7000,2025-08-05,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+Precision Edodontics of Raleigh,NC,Healthcare Provider,4022,2025-08-05,Hacking/IT Incident,Email,No,,2025,2025-08-01
+MDLand International Corporation,NY,Business Associate,22586,2025-08-04,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+Genoa Community Hospital/LTC,NE,Healthcare Provider,2544,2025-08-04,Hacking/IT Incident,Email,No,,2025,2025-08-01
+West Texas Oral Facial Surgery,TX,Healthcare Provider,11151,2025-08-02,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+Highlands Oncology Group PA,AR,Healthcare Provider,111766,2025-08-01,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+"Langdon & Company, LLP Certified Public Accountants",NC,Business Associate,46061,2025-08-01,Hacking/IT Incident,Network Server,Yes,,2025,2025-08-01
+DaVita Inc.,CO,Healthcare Provider,2689826,2025-08-01,Hacking/IT Incident,Network Server,No,,2025,2025-08-01
+Western Montana Clinic PC,MT,Healthcare Provider,8255,2025-08-01,Hacking/IT Incident,Email,No,,2025,2025-08-01
+Vail Summit Orthopaedics,CO,Healthcare Provider,5044,2025-07-31,Hacking/IT Incident,Email,No,,2025,2025-07-01
+Central Maine Healthcare,ME,Healthcare Provider,7223,2025-07-31,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+"Berkshire Health Systems, Inc.",MA,Healthcare Provider,1000,2025-07-30,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2025,2025-07-01
+The Center at Cordera,CO,Healthcare Provider,6057,2025-07-29,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+"Compass Counseling Services, LLC",FL,Healthcare Provider,5440,2025-07-29,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+"Alera Group, Inc.",IL,Business Associate,155567,2025-07-29,Hacking/IT Incident,Network Server,Yes,,2025,2025-07-01
+"PhyNet Dermatology, LLC",TN,Business Associate,1308,2025-07-29,Hacking/IT Incident,Email,Yes,,2025,2025-07-01
+AVALA Holdings,LA,Healthcare Provider,22732,2025-07-29,Hacking/IT Incident,Email,No,,2025,2025-07-01
+University of Miami,FL,Healthcare Provider,2928,2025-07-29,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2025,2025-07-01
+Wood River Health,RI,Healthcare Provider,54926,2025-07-28,Hacking/IT Incident,Email,No,,2025,2025-07-01
+"Northwest Denture Center, Inc.",WA,Healthcare Provider,19419,2025-07-25,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+Doctors’ Memorial Hospital,FL,Healthcare Provider,500,2025-07-25,Hacking/IT Incident,Network Server,Yes,,2025,2025-07-01
+"Nova Recovery Center, LLC d/b/a Nova Recovery Center",TX,Healthcare Provider,6242,2025-07-24,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+McKenzie Memorial Hospital,MI,Healthcare Provider,58839,2025-07-24,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+OB/GYN Medical Center Associates,TX,Healthcare Provider,2132,2025-07-23,Hacking/IT Incident,Network Server,Yes,,2025,2025-07-01
+Gastroenterology Consultants of South Texas,TX,Healthcare Provider,44579,2025-07-22,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+Kettering Adventist Healthcare,OH,Healthcare Provider,501,2025-07-21,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+OrthoAtlanta LLC,GA,Business Associate,626,2025-07-21,Hacking/IT Incident,Email,Yes,,2025,2025-07-01
+"Infinite Services, Inc.",NY,Healthcare Provider,31742,2025-07-21,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+Dr. Michael Bilikas and Associates d.b.a. 32 Pearls,WA,Healthcare Provider,23517,2025-07-21,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+Blue Shield of California,CA,Health Plan,783,2025-07-21,Unauthorized Access/Disclosure,"Laptop, Network Server, Other",No,,2025,2025-07-01
+Equilibria Mental Health Services,PA,Healthcare Provider,3232,2025-07-20,Hacking/IT Incident,Email,No,,2025,2025-07-01
+"Keys Pathology Associates, PA",FL,Healthcare Provider,20000,2025-07-19,Hacking/IT Incident,Network Server,Yes,,2025,2025-07-01
+Oregon Specialty Group,OR,Healthcare Provider,3337,2025-07-18,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+The Brien Center for Mental Health and Substance Abuse Services,MA,Healthcare Provider,5427,2025-07-18,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+ABC Holding Company,WV,Business Associate,1300,2025-07-18,Unauthorized Access/Disclosure,Paper/Films,Yes,,2025,2025-07-01
+Human Development Services of Westchester,NY,Healthcare Provider,501,2025-07-18,Hacking/IT Incident,Email,No,,2025,2025-07-01
+Self Regional Healthcare,SC,Healthcare Provider,26696,2025-07-17,Hacking/IT Incident,Network Server,Yes,,2025,2025-07-01
+Mid South Rehab Services Inc.,MS,Healthcare Provider,1316,2025-07-15,Hacking/IT Incident,Email,No,,2025,2025-07-01
+Jack L Marcus,WI,Business Associate,712,2025-07-14,Unauthorized Access/Disclosure,Network Server,Yes,,2025,2025-07-01
+"Northwest Medical Homes, LLC",OR,Healthcare Provider,500,2025-07-13,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+Williamsburg Area Medical Assistance Corporation d/b/a Olde Towne Medical and Dental Center (OTMDC),VA,Healthcare Provider,2567,2025-07-13,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+Regency Oaks,FL,Healthcare Provider,2008,2025-07-11,Hacking/IT Incident,Email,No,,2025,2025-07-01
+Freedom Plaza Senior Living,FL,Healthcare Provider,4847,2025-07-11,Hacking/IT Incident,Email,No,,2025,2025-07-01
+Freedom Square of Seminole,FL,Healthcare Provider,3473,2025-07-11,Hacking/IT Incident,Email,No,,2025,2025-07-01
+"Picis Clinical Solutions, Inc. d/b/a Medstreaming",MA,Business Associate,500,2025-07-11,Hacking/IT Incident,Network Server,Yes,,2025,2025-07-01
+Covenant Health,MA,Business Associate,7864,2025-07-11,Hacking/IT Incident,Network Server,Yes,,2025,2025-07-01
+Anne Arundel Dermatology,MD,Healthcare Provider,1905000,2025-07-11,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+Mountain Laurel Dermatology,NC,Healthcare Provider,3324,2025-07-10,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+Naper Grove Vision Care,IL,Healthcare Provider,501,2025-07-10,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+"Florida Lung, Asthma & Sleep Specialists (FLASS)",FL,Healthcare Provider,10000,2025-07-09,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+Ascension Health Services LLC dba Alpha Wellness & Alpha Medical Centre,GA,Healthcare Provider,1714,2025-07-08,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+Complete Care Rehab LLC,MI,Healthcare Provider,4764,2025-07-08,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+"Community Health Network, Inc.",IN,Healthcare Provider,15410,2025-07-07,Hacking/IT Incident,Email,No,,2025,2025-07-01
+K&E Advanced Dentisrty,OH,Healthcare Provider,1700,2025-07-07,Hacking/IT Incident,Email,No,,2025,2025-07-01
+City of Franklin,WI,Healthcare Provider,3233,2025-07-03,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+"Zumpano Patricios, P.A.",FL,Business Associate,279275,2025-07-03,Hacking/IT Incident,Network Server,Yes,,2025,2025-07-01
+Cierant Corporation,CT,Business Associate,232506,2025-07-03,Hacking/IT Incident,Network Server,Yes,,2025,2025-07-01
+"Arbor Associates, Inc.",MI,Business Associate,17040,2025-07-03,Hacking/IT Incident,Network Server,Yes,,2025,2025-07-01
+Urology Associates of Charleston,SC,Healthcare Provider,2060,2025-07-03,Hacking/IT Incident,Email,No,,2025,2025-07-01
+"Radiology Associates of Richmond, Inc.",VA,Healthcare Provider,1419091,2025-07-01,Hacking/IT Incident,Network Server,No,,2025,2025-07-01
+Texas Center for Infectious Disease Associates,TX,Healthcare Provider,19481,2025-06-30,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+Centers for Medicare & Medicaid Services,MD,Health Plan,107154,2025-06-30,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+Clinical Practices of the University of Pennsylvania,PA,Healthcare Provider,1432,2025-06-30,Unauthorized Access/Disclosure,Paper/Films,No,,2025,2025-06-01
+Southwest Urology,OH,Healthcare Provider,7214,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+"South Georgia Center for Cancer Care, LLC",GA,Healthcare Provider,4108,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+"Radiation Oncology Network of Southern California, LLC",CA,Healthcare Provider,12944,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+PDCM Insurance,IA,Business Associate,501,2025-06-27,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+Rocky Mountain Oncology Care,WY,Healthcare Provider,10268,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+PET Imaging of Tulsa,OK,Healthcare Provider,3159,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+PET Imaging of The Woodlands,TX,Healthcare Provider,2978,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+PET Imaging of Sugar Land,TX,Healthcare Provider,1808,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+PET Imaging of Northern Colorado,CO,Healthcare Provider,4824,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+PET Imaging of Houston Medical Center,TX,Healthcare Provider,1236,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+PET Imaging of Dallas Northeast,TX,Healthcare Provider,1935,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+Orange County Radiation Oncology Medical Group,CA,Healthcare Provider,1911,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+Mojave Radiation Oncology Medical Group,CA,Healthcare Provider,4403,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+"Lake City Cancer Care, LLC",FL,Healthcare Provider,15142,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+Heartland Regional Medical Center d/b/a Mosaic Life Care,MO,Healthcare Provider,145269,2025-06-27,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+"Compumedics USA, Inc.",NC,Business Associate,318150,2025-06-27,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+Integrated Oncology Network,TN,Business Associate,4174,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+Golden State Radiation Oncology,CA,Healthcare Provider,2130,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+Fairbanks Urology,AK,Healthcare Provider,4289,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+"e+ Oncologics Louisiana, LLC",LA,Healthcare Provider,8270,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+Denali Biomedical,AK,Healthcare Provider,2413,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+Horizon Healthcare RCM,IN,Healthcare Clearing House,77410,2025-06-27,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+Cancer Care Center of North Florida-Lake Butler,FL,Healthcare Provider,976,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+California Cancer Associates for Research and Excellence – San Diego,CA,Healthcare Provider,638,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+California Cancer Associates for Research and Excellence – High Desert,CA,Healthcare Provider,17250,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+California Cancer Associates for Research and Excellence - Fresno,CA,Healthcare Provider,7670,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+Bardmoor Cancer Center,FL,Healthcare Provider,991,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+"Acadiana Radiation Therapy, LLC",LA,Healthcare Provider,2219,2025-06-27,Hacking/IT Incident,Email,Yes,,2025,2025-06-01
+"Jordan Drug, Inc.",KY,Healthcare Provider,4947,2025-06-26,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+Clement Manor,WI,Healthcare Provider,500,2025-06-25,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+McLaren Health Care,MI,Healthcare Provider,743131,2025-06-24,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+Gardner Orthopedics LLC,FL,Healthcare Provider,47000,2025-06-24,Hacking/IT Incident,Desktop Computer,No,,2025,2025-06-01
+Minneapolis VA Medical Center,MN,Healthcare Provider,1099,2025-06-24,Unauthorized Access/Disclosure,Paper/Films,No,,2025,2025-06-01
+Blue Shield of California,CA,Business Associate,673,2025-06-23,Unauthorized Access/Disclosure,Email,Yes,,2025,2025-06-01
+Esse Health,MO,Healthcare Provider,23671,2025-06-20,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+"Los Angeles County Developmental Services Fdn., Inc. dba Frank D. Lanterman Regional Ctr.",CA,Healthcare Provider,19000,2025-06-20,Hacking/IT Incident,Email,No,,2025,2025-06-01
+"Retina Associates of Cleveland, Inc.",OH,Healthcare Provider,3604,2025-06-20,Hacking/IT Incident,Email,No,,2025,2025-06-01
+Harbor,OH,Healthcare Provider,2703,2025-06-20,Hacking/IT Incident,Email,No,,2025,2025-06-01
+Skin Care Specialty Physicians,MD,Healthcare Provider,1038,2025-06-19,Hacking/IT Incident,Email,No,,2025,2025-06-01
+"TRG, LLC",OR,Healthcare Provider,70434,2025-06-18,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+Iron County Medical Center,MO,Healthcare Provider,10239,2025-06-18,Hacking/IT Incident,Email,No,,2025,2025-06-01
+Marquette County Medical Care Facility,OH,Healthcare Provider,1499,2025-06-18,Hacking/IT Incident,Email,No,,2025,2025-06-01
+Winkler County Hospital District,TX,Healthcare Provider,637,2025-06-17,Unauthorized Access/Disclosure,Email,No,,2025,2025-06-01
+Broadwest Specialty Surgical Center,IN,Healthcare Provider,536,2025-06-17,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+"Decisely Insurance Services, LLC",GA,Business Associate,84039,2025-06-13,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+Central Kentucky Radiology,KY,Healthcare Provider,166953,2025-06-13,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+Diversified Services Enterprises,FL,Business Associate,501,2025-06-13,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+Elmore County,ID,Healthcare Provider,931,2025-06-13,Hacking/IT Incident,Email,No,,2025,2025-06-01
+Arkansas Urology Associates PA,AR,Healthcare Provider,642,2025-06-13,Unauthorized Access/Disclosure,Email,No,,2025,2025-06-01
+AltaMed Health Services Corporation,CA,Healthcare Provider,4530,2025-06-13,Unauthorized Access/Disclosure,Email,No,,2025,2025-06-01
+Mount Rogers Community Services,VA,Healthcare Provider,38191,2025-06-13,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+Kelley Drye & Warren LLP,NY,Business Associate,771,2025-06-12,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+Rural Health Services,SC,Healthcare Provider,36542,2025-06-12,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+Clarkston Chiropractic Sports & Wellness,MI,Healthcare Provider,2757,2025-06-11,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+"Apex Global Solutions, LLC",NY,Business Associate,14741,2025-06-10,Hacking/IT Incident,"Desktop Computer, Laptop",Yes,,2025,2025-06-01
+"Repay Management Services, LLC",GA,Health Plan,606,2025-06-10,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+Sentara Health,VA,Healthcare Provider,13278,2025-06-09,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2025,2025-06-01
+"Southern Connecticut Vascular Center, LLC",CT,Healthcare Provider,154417,2025-06-09,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+"Episource, LLC",CA,Business Associate,5418866,2025-06-06,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+Blue Shield of California,CA,Business Associate,1543,2025-06-06,Unauthorized Access/Disclosure,Other,Yes,,2025,2025-06-01
+Sharp Community Medical Group,CA,Healthcare Provider,26976,2025-06-06,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+Public Health Trust of Miami Dade County DBA Jackson Health System,FL,Healthcare Provider,2599,2025-06-06,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2025,2025-06-01
+Sharp HealthCare,CA,Healthcare Provider,500,2025-06-06,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+Select Medical Holdings Corporation,PA,Healthcare Provider,119525,2025-06-06,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+"Huron Regional Medical Center, Inc.",SD,Healthcare Provider,25398,2025-06-06,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+Centivo Corporation,GA,Business Associate,630,2025-06-06,Unauthorized Access/Disclosure,Email,Yes,,2025,2025-06-01
+NYC Health + Hospitals,NY,Healthcare Provider,5728,2025-06-06,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+"Sensata Technologies, Inc. Health and Welfare Benefit Plan",MA,Health Plan,15630,2025-06-05,Hacking/IT Incident,Network Server,No,,2025,2025-06-01
+Jupiter Family Medicine PC,MI,Healthcare Provider,3000,2025-06-05,Unauthorized Access/Disclosure,Paper/Films,No,,2025,2025-06-01
+Renkim Corporation,MI,Business Associate,46592,2025-06-02,Hacking/IT Incident,Network Server,Yes,,2025,2025-06-01
+Cumberland County Hospital Association,KY,Healthcare Provider,36659,2025-06-02,Hacking/IT Incident,Other,No,,2025,2025-06-01
+Upper Dublin Family Dentistry,PA,Healthcare Provider,5000,2025-05-30,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+Ocuco Inc,FL,Business Associate,240961,2025-05-30,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+"CareOregon, Inc.",OR,Health Plan,1786,2025-05-30,Unauthorized Access/Disclosure,Paper/Films,No,,2025,2025-05-01
+Oliver Street Dermatology Management LLC,TX,Business Associate,13717,2025-05-30,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+Horizon Blue Cross Blue Shield NJ,NJ,Health Plan,781,2025-05-30,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+Next Step Healthcare LLC,MA,Healthcare Provider,12090,2025-05-30,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+Missouri Department of Conservation,MO,Health Plan,10260,2025-05-30,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+MedStar St. Mary's Hospital,MD,Healthcare Provider,172915,2025-05-29,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+Northwestern Community Services Board,VA,Healthcare Provider,21856,2025-05-29,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+"Gateway Community Services, Inc.",FL,Healthcare Provider,34498,2025-05-29,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+Erlanger Health,TN,Healthcare Provider,3371,2025-05-28,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+The Smith Institute for Urology,NY,Healthcare Provider,2263,2025-05-28,Unauthorized Access/Disclosure,Desktop Computer,No,,2025,2025-05-01
+"Covenant Surgical Partners, Inc.",TX,Business Associate,88609,2025-05-28,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+"Mary B. Toporcer, MD, P.C.",PA,Healthcare Provider,501,2025-05-28,Hacking/IT Incident,Email,No,,2025,2025-05-01
+Cahaba Center for Mental Health,AL,Healthcare Provider,501,2025-05-27,Hacking/IT Incident,Email,No,,2025,2025-05-01
+NHPP Physical Medicine and Rehabilitation,NY,Healthcare Provider,1353,2025-05-23,Unauthorized Access/Disclosure,Other,No,,2025,2025-05-01
+"Sports Physical Therapy, Occupational Therapy and Rehabilitation Services of the North Shore, P.L.L.C",NY,Healthcare Provider,6195,2025-05-23,Unauthorized Access/Disclosure,Other,No,,2025,2025-05-01
+North Shore University Hospital Sleep Disorders Center,NY,Healthcare Provider,13332,2025-05-23,Unauthorized Access/Disclosure,Other,No,,2025,2025-05-01
+The Cooper Health System,NJ,Healthcare Provider,57412,2025-05-23,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+UChicago Medicine Medical Group,IL,Healthcare Provider,38656,2025-05-23,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+Access2Day Health,LA,Business Associate,4908,2025-05-23,Hacking/IT Incident,Email,Yes,,2025,2025-05-01
+Connections for Kids,ME,Healthcare Provider,938,2025-05-23,Hacking/IT Incident,Email,No,,2025,2025-05-01
+Shore Medical Center,NJ,Healthcare Provider,31177,2025-05-23,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+"Family Health Services, Inc.",NE,Business Associate,4040,2025-05-23,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+HopeWay Foundation,NC,Healthcare Provider,3523,2025-05-20,Hacking/IT Incident,Email,No,,2025,2025-05-01
+Instituto de Ojos de Puerto Rico,,Healthcare Provider,50000,2025-05-19,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+Community Hospital of Anaconda,MT,Healthcare Provider,21243,2025-05-19,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+Insulet Corporation,MA,Healthcare Provider,841,2025-05-16,Unauthorized Access/Disclosure,Network Server,No,,2025,2025-05-01
+"Mercy Surgical Dressing Group, Inc.",PA,Business Associate,4159,2025-05-16,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+"Compassion Health Care, Inc.",NC,Healthcare Provider,23282,2025-05-16,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+"Harbin Clinic, LLC",GA,Healthcare Provider,176149,2025-05-16,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+Weiser Valley Hospital District dba Weiser Memorial Hospital,ID,Healthcare Provider,59990,2025-05-15,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+"CareNexa, LLC, doing business as Molecular Testing Labs",WA,Healthcare Provider,7711,2025-05-15,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+Hunter Health Clinic,KS,Healthcare Provider,28431,2025-05-15,Hacking/IT Incident,Email,No,,2025,2025-05-01
+Anne Arundel County Department of Health,MD,Healthcare Provider,500,2025-05-15,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+"Doctors Hospital at Renaissance, LTD",TX,Healthcare Provider,501,2025-05-15,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+Union County Children and Youth Services,PA,Healthcare Provider,501,2025-05-13,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+CVS Caremark,RI,Business Associate,2599,2025-05-13,Unauthorized Access/Disclosure,Paper/Films,Yes,,2025,2025-05-01
+Washington Gastroenterology,WA,Healthcare Provider,501,2025-05-09,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+Blue Cross Blue Shield of Texas,IL,Business Associate,593,2025-05-09,Unauthorized Access/Disclosure,Paper/Films,Yes,,2025,2025-05-01
+"THE CARING HEALTHCARE NETWORK, LLC",PA,Healthcare Provider,1019,2025-05-09,Unauthorized Access/Disclosure,Paper/Films,No,,2025,2025-05-01
+"Tri-City Cardiology Consultants, P.C.",AZ,Healthcare Provider,22753,2025-05-08,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+Allied Services Division Welfare Fund,IL,Health Plan,5727,2025-05-07,Hacking/IT Incident,Email,No,,2025,2025-05-01
+The Carpenter Health Network,LA,Healthcare Provider,878,2025-05-06,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+"Primary Health Care, Inc.",IA,Healthcare Provider,787,2025-05-06,Unauthorized Access/Disclosure,Email,No,,2025,2025-05-01
+"SunLink Health Systems, Inc.",GA,Healthcare Provider,2856,2025-05-06,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+"Minnesota Orthodontics and Dentofacial Orthopedics, P.A.",MN,Healthcare Provider,501,2025-05-05,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+"Monongalia Health System, Inc.",WV,Healthcare Provider,4895,2025-05-03,Unauthorized Access/Disclosure,Email,No,,2025,2025-05-01
+CardioVascular Health Clinic,OK,Healthcare Provider,501,2025-05-03,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+"Absolute Dental Group, LLC",NV,Business Associate,501,2025-05-02,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+DermCare Management,FL,Business Associate,501,2025-05-02,Hacking/IT Incident,Network Server,Yes,,2025,2025-05-01
+"Arizona Arthritis and Rheumatology Associates, P.C.",AZ,Healthcare Provider,5509,2025-05-02,Hacking/IT Incident,Email,No,,2025,2025-05-01
+"Anesthesia Associates of Morristown, P.A.",NJ,Healthcare Provider,501,2025-05-02,Improper Disposal,Paper/Films,Yes,,2025,2025-05-01
+Shelby Dermatology d.b.a Dermatologists of Birmingham,AL,Healthcare Provider,86414,2025-05-02,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+Sonrisas Dental Health,CA,Healthcare Provider,15644,2025-05-02,Hacking/IT Incident,Network Server,No,,2025,2025-05-01
+Canby Clinic,OR,Healthcare Provider,549,2025-04-30,Unauthorized Access/Disclosure,Email,No,,2025,2025-04-01
+"Berkeley Research Group, LLC",CA,Business Associate,500,2025-04-30,Hacking/IT Incident,Network Server,Yes,,2025,2025-04-01
+Family Christian Health Center,IL,Healthcare Provider,12500,2025-04-30,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+"Physician Wound Solutions, LLC dba Apollo Medical Supply",FL,Healthcare Provider,3561,2025-04-29,Unauthorized Access/Disclosure,Network Server,Yes,,2025,2025-04-01
+Ascension Health,MO,Healthcare Provider,437329,2025-04-28,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+"Maximus, Inc.",VA,Business Associate,4529,2025-04-25,Unauthorized Access/Disclosure,Network Server,Yes,,2025,2025-04-01
+Carlton County Public Health and Human Services,MN,Healthcare Provider,3502,2025-04-25,Hacking/IT Incident,Email,No,,2025,2025-04-01
+Brainard Surgery Center LLC,OH,Healthcare Provider,501,2025-04-24,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+Palo Verde Hospital,CA,Healthcare Provider,594,2025-04-24,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+"Drug and Alcohol Treatment Services, Inc.",PA,Healthcare Provider,22215,2025-04-24,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+Orthopaedic Specialists of Connecticut,CT,Healthcare Provider,22541,2025-04-23,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+"Marc Irwin Sharfman, M.D., P.A.",FL,Healthcare Provider,650,2025-04-23,Hacking/IT Incident,Network Server,Yes,,2025,2025-04-01
+"City of Bristol, Tennessee",TN,Healthcare Provider,4708,2025-04-22,Hacking/IT Incident,Network Server,Yes,,2025,2025-04-01
+Icon Family Healthcare LLC,CA,Healthcare Provider,1800,2025-04-22,Unauthorized Access/Disclosure,Email,No,,2025,2025-04-01
+Charleston Fire Department,WV,Healthcare Provider,2583,2025-04-22,Hacking/IT Incident,Email,No,,2025,2025-04-01
+Onsite Mammography,MA,Business Associate,357265,2025-04-21,Hacking/IT Incident,Email,Yes,,2025,2025-04-01
+"90 Degree Benefits, Inc. – St. Paul",WI,Business Associate,1268,2025-04-18,Hacking/IT Incident,Email,Yes,,2025,2025-04-01
+Cardiology Associates of Fredericksburg,VA,Healthcare Provider,75476,2025-04-17,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+HEALTH AND WELLNESS OF TEXAS,TX,Healthcare Provider,500,2025-04-16,Unauthorized Access/Disclosure,"Electronic Medical Record, Email",No,,2025,2025-04-01
+Recovery Epicenter Foundation,FL,Healthcare Provider,800,2025-04-16,Unauthorized Access/Disclosure,Network Server,No,,2025,2025-04-01
+Thrive Physical Therapy Partners,IL,Business Associate,986,2025-04-16,Hacking/IT Incident,Email,Yes,,2025,2025-04-01
+Thrive Physical Therapy Partners,IL,Business Associate,3403,2025-04-16,Hacking/IT Incident,Email,Yes,,2025,2025-04-01
+Magnolia Manor Inc.,GA,Healthcare Provider,960,2025-04-15,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+"The City of Long Beach, CA",CA,Healthcare Provider,258191,2025-04-14,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+Scharnhorst Ast Kennard Griffin PC,MO,Business Associate,639,2025-04-14,Hacking/IT Incident,Email,Yes,,2025,2025-04-01
+"Bell Ambulance, Inc.",WI,Healthcare Provider,114000,2025-04-14,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+AHS Sherman LLC dba AHS Sherman Medical Center,TX,Healthcare Provider,908,2025-04-14,Unauthorized Access/Disclosure,Email,No,,2025,2025-04-01
+Health Care Service Corporation,IL,Health Plan,2944,2025-04-13,Unauthorized Access/Disclosure,Other,No,,2025,2025-04-01
+Blue Cross and Blue Shield of Texas,IL,Health Plan,12086,2025-04-13,Unauthorized Access/Disclosure,Other,No,,2025,2025-04-01
+Blue Cross and Blue Shield of Oklahoma,IL,Health Plan,1020,2025-04-13,Unauthorized Access/Disclosure,Other,No,,2025,2025-04-01
+Blue Cross and Blue Shield of Illinois,IL,Health Plan,6903,2025-04-13,Unauthorized Access/Disclosure,Other,No,,2025,2025-04-01
+Summit Healthcare Medical Associates,AZ,Healthcare Provider,1861,2025-04-11,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2025,2025-04-01
+Whitman County Public Hospital District No. 3,WA,Healthcare Provider,63453,2025-04-11,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+"Altior Healthcare, LLC",CA,Healthcare Provider,1002,2025-04-11,Hacking/IT Incident,Email,No,,2025,2025-04-01
+Endue Software,ME,Business Associate,118028,2025-04-11,Hacking/IT Incident,Network Server,Yes,,2025,2025-04-01
+The Gatesworth Senior Living St. Louis,MO,Healthcare Provider,31124,2025-04-11,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+Parc Provence Memory Care Facility,MO,Healthcare Provider,13954,2025-04-11,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+Jacksonville Medical Care,AR,Healthcare Provider,6262,2025-04-10,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+Cabot Medical Care,AR,Healthcare Provider,21467,2025-04-10,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+"Kelly & Associates Insurance Group, Inc.",MD,Business Associate,553332,2025-04-09,Hacking/IT Incident,Network Server,Yes,,2025,2025-04-01
+Blue Shield of California,CA,Business Associate,4700000,2025-04-09,Hacking/IT Incident,Network Server,Yes,,2025,2025-04-01
+California Correctional Health Care Services,CA,Healthcare Provider,4105,2025-04-09,Unauthorized Access/Disclosure,Email,No,,2025,2025-04-01
+Alabama Ophthalmology Associates,AL,Healthcare Provider,131576,2025-04-08,Hacking/IT Incident,"Desktop Computer, Network Server",No,,2025,2025-04-01
+Hebrew Home for Aged Disabled d/b/a San Francisco Campus for Jewish Living,CA,Healthcare Provider,2568,2025-04-07,Hacking/IT Incident,Email,No,,2025,2025-04-01
+"Friendship House, Inc.",NE,Healthcare Provider,501,2025-04-04,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+Loretto Hospital,IL,Healthcare Provider,501,2025-04-04,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+"Newburgh Healthcare Residential Center, Inc.",IN,Healthcare Provider,700,2025-04-04,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+Dallas County MHMR dba Metrocare Services,TX,Healthcare Provider,553,2025-04-03,Unauthorized Access/Disclosure,"Email, Network Server",No,,2025,2025-04-01
+Hamilton County Government,TN,Healthcare Provider,14081,2025-04-03,Hacking/IT Incident,Network Server,Yes,,2025,2025-04-01
+"Gilead Sciences, Inc.",CA,Health Plan,12224,2025-04-02,Unauthorized Access/Disclosure,Paper/Films,Yes,,2025,2025-04-01
+Dameron Hospital,CA,Healthcare Provider,210706,2025-04-02,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+"Allegany Council on Alcoholism & Substance Abuse, Inc.",NY,Healthcare Provider,696,2025-04-02,Hacking/IT Incident,Email,No,,2025,2025-04-01
+True Dental Care For Kids and Adults LLC,PA,Healthcare Provider,17640,2025-04-02,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+Health Services LLC,OH,Healthcare Provider,75906,2025-04-01,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+Gardner Health Services,CA,Healthcare Provider,26000,2025-04-01,Unauthorized Access/Disclosure,Paper/Films,Yes,,2025,2025-04-01
+Central District Health Department of Nebraska,NE,Healthcare Provider,58519,2025-04-01,Hacking/IT Incident,Network Server,No,,2025,2025-04-01
+"Family Centers, Inc.",CT,Healthcare Provider,501,2025-03-31,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Black Hills Regional Eye Institute,SD,Healthcare Provider,106763,2025-03-31,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+North Hudson Community Action Corporation,NJ,Healthcare Provider,501,2025-03-28,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+"Community Dental Care, Inc.",MN,Healthcare Provider,134903,2025-03-28,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Mayo Clinic,MN,Healthcare Provider,1869,2025-03-28,Unauthorized Access/Disclosure,Email,No,,2025,2025-03-01
+Frederick Health,MD,Healthcare Provider,934326,2025-03-28,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+SimonMed Imaging,AZ,Healthcare Provider,500,2025-03-27,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Mercer County Joint Township Community Hospital,OH,Healthcare Provider,88541,2025-03-26,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Western Wayne Family Physicians,MI,Healthcare Provider,62000,2025-03-26,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Concord Orthopaedics,NH,Healthcare Provider,72815,2025-03-25,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Bigfork Valley Hospital,MN,Healthcare Provider,8496,2025-03-25,Hacking/IT Incident,Email,No,,2025,2025-03-01
+MedicareCompareUSA,WA,Business Associate,5782,2025-03-21,Hacking/IT Incident,Email,Yes,,2025,2025-03-01
+"Mid Florida Primary Care, PA",FL,Healthcare Provider,16435,2025-03-21,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+AmeriHealth Caritas Louisiana,LA,Health Plan,1552,2025-03-21,Unauthorized Access/Disclosure,"Network Server, Other",No,,2025,2025-03-01
+Graphium Health,UT,Healthcare Provider,1187,2025-03-20,Unauthorized Access/Disclosure,Paper/Films,Yes,,2025,2025-03-01
+Millennium Home Health Care,OK,Healthcare Provider,4743,2025-03-19,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Pinehurst Radiology Associates,NC,Healthcare Provider,8682,2025-03-19,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+"The Pavilion at HealthPark, LLC dba Park Royal Hospital",FL,Healthcare Provider,9349,2025-03-18,Hacking/IT Incident,Email,No,,2025,2025-03-01
+Dove Healthcare,WI,Healthcare Provider,16255,2025-03-18,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Presbyterian Health Plan,NM,Health Plan,7100,2025-03-18,Hacking/IT Incident,Email,No,,2025,2025-03-01
+"Heart to Heart Hospice Holdings, LLC",TX,Healthcare Provider,19034,2025-03-18,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Lena Pope Home Inc.,TX,Healthcare Provider,3523,2025-03-17,Hacking/IT Incident,Email,No,,2025,2025-03-01
+Klickitat Valley Health,WA,Healthcare Provider,26339,2025-03-14,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+"Welts, White, & Fontaine PC",NH,Business Associate,500,2025-03-14,Hacking/IT Incident,Network Server,Yes,,2025,2025-03-01
+"CDHA Management, LLC and Spark DSO, LLC dba Chord Specialty Dental Partners",TN,Healthcare Provider,173430,2025-03-14,Hacking/IT Incident,Email,No,,2025,2025-03-01
+Baylor Scott & White Texas Spine & Joint Hospital,TX,Healthcare Provider,1640,2025-03-14,Hacking/IT Incident,Email,No,,2025,2025-03-01
+"Cottrill’s Pharmacy, Inc. DBA Cottrill’s Specialty Pharmacy",NY,Healthcare Provider,2348,2025-03-14,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Columbia Eye Clinic,SC,Healthcare Provider,500,2025-03-14,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Topy America Inc.,KY,Health Plan,1827,2025-03-14,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+PACE Greater New Orleans,LA,Healthcare Provider,715,2025-03-13,Unauthorized Access/Disclosure,Email,No,,2025,2025-03-01
+"OCH Regional Medical Center, MS",MS,Healthcare Provider,51266,2025-03-11,Unauthorized Access/Disclosure,Other,No,,2025,2025-03-01
+"Nice Healthcare Management Company, Inc",MN,Healthcare Provider,10000,2025-03-10,Hacking/IT Incident,Network Server,Yes,,2025,2025-03-01
+Vision Upright MRI,CA,Healthcare Provider,23031,2025-03-10,Unauthorized Access/Disclosure,Network Server,No,,2025,2025-03-01
+SCLARC,CA,Business Associate,722,2025-03-06,Theft,"Laptop, Other Portable Electronic Device, Paper/Films",Yes,,2025,2025-03-01
+"Madison County, MS",MS,Health Plan,6082,2025-03-05,Hacking/IT Incident,Email,No,,2025,2025-03-01
+"Hillcrest Convalescent Center, Inc.",NC,Healthcare Provider,106194,2025-03-04,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Vernon Rehabilitation and Healthcare Center,CT,Healthcare Provider,5416,2025-03-03,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Manchester Rehabilitation and Healthcare Center,CT,Healthcare Provider,5415,2025-03-03,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Community Care Alliance,RI,Healthcare Provider,114975,2025-03-01,Hacking/IT Incident,Network Server,No,,2025,2025-03-01
+Blue Shield of California,CA,Health Plan,624,2025-02-28,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2025,2025-02-01
+Total Medical Imaging,FL,Healthcare Provider,27000,2025-02-28,Unauthorized Access/Disclosure,Network Server,Yes,,2025,2025-02-01
+"Southeast Series of Lockton Companies, LLC (Lockton)",GA,Business Associate,1124727,2025-02-28,Hacking/IT Incident,Network Server,Yes,,2025,2025-02-01
+Kronick Moskovitz Tiedemann & Girard,CA,Business Associate,2511,2025-02-28,Hacking/IT Incident,Network Server,Yes,,2025,2025-02-01
+"Legacy Professionals, LLP",IL,Business Associate,216752,2025-02-28,Hacking/IT Incident,Network Server,Yes,,2025,2025-02-01
+"CEI Vision Partners, LLC",MO,Business Associate,10841,2025-02-28,Hacking/IT Incident,Network Server,Yes,,2025,2025-02-01
+"NVW Newco, LLC",AZ,Healthcare Provider,3232,2025-02-28,Unauthorized Access/Disclosure,Email,No,,2025,2025-02-01
+Stram Center for Integrative Medicine,NY,Healthcare Provider,15263,2025-02-28,Theft,"Electronic Medical Record, Paper/Films",No,,2025,2025-02-01
+"East Hawaii Rehab, Inc. DBA Lehua Physical Therapy and Rehab",HI,Healthcare Provider,8472,2025-02-28,Theft,"Other, Other Portable Electronic Device, Paper/Films",No,,2025,2025-02-01
+Carolina Arthritis Associates,NC,Healthcare Provider,36961,2025-02-27,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+SMC Corporation of America,IN,Health Plan,6566,2025-02-27,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+Atlantis Operating LLC d/b/a The Phoenix Rehabilitation and Nursing Center,NY,Healthcare Provider,6459,2025-02-26,Hacking/IT Incident,Electronic Medical Record,Yes,,2025,2025-02-01
+Palmetto Operating LLC d/b/a Palmetto Subacute Care Center (‘Palmetto’),FL,Healthcare Provider,2746,2025-02-26,Unauthorized Access/Disclosure,Electronic Medical Record,Yes,,2025,2025-02-01
+"HHH Acquisition, LLC d/b/a The Grove at Valhalla Rehabilitation and Nursing Center",NY,Healthcare Provider,4196,2025-02-26,Hacking/IT Incident,Electronic Medical Record,Yes,,2025,2025-02-01
+Lake Washington Vascular,WA,Healthcare Provider,21534,2025-02-25,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+Artistic Family Dental,IN,Healthcare Provider,3915,2025-02-25,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+Consultants in Pain Medicine,TX,Healthcare Provider,1124,2025-02-16,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+"Spring Management OK, LLC",OK,Business Associate,2494,2025-02-14,Hacking/IT Incident,Network Server,Yes,,2025,2025-02-01
+"Restorix Health, Inc.",LA,Business Associate,38553,2025-02-14,Unauthorized Access/Disclosure,Email,Yes,,2025,2025-02-01
+CDS in Texas,TX,Healthcare Provider,566,2025-02-14,Unauthorized Access/Disclosure,Email,No,,2025,2025-02-01
+"Children's Dental Center at Preston Trail, P.C. d/b/a Park Place Pediatric Dentistry (Arlington, TX)",TN,Healthcare Provider,1690,2025-02-14,Theft,Laptop,No,,2025,2025-02-01
+"Somnia, Inc.",NY,Business Associate,19069,2025-02-14,Hacking/IT Incident,Email,Yes,,2025,2025-02-01
+Ottawa Family Physicians,KS,Healthcare Provider,501,2025-02-13,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+UNITED BACKCARE PS dba Pacific Rehabilitation Centers,WA,Healthcare Provider,18900,2025-02-11,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+New Era Life Insurance Companies,TX,Health Plan,335506,2025-02-11,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+"Heartland Medical Clinic, Inc. dba Heartland Community Health Center",KS,Healthcare Provider,43768,2025-02-10,Hacking/IT Incident,Email,No,,2025,2025-02-01
+Columbus Division of Fire,OH,Healthcare Provider,736,2025-02-10,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+"CPS Solutions, LLC",OH,Business Associate,500,2025-02-10,Hacking/IT Incident,Email,Yes,,2025,2025-02-01
+Authority of the City of Bainbridge and Decatur County (“Memorial Hospital & Manor”),GA,Healthcare Provider,120085,2025-02-08,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+"Blue & Co., LLC",IN,Business Associate,2787,2025-02-07,Hacking/IT Incident,Network Server,Yes,,2025,2025-02-01
+The League Treatment Center,NY,Healthcare Provider,1826,2025-02-06,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+"U.S. HEALTHWORKS-SMMPP, L.C.",AZ,Business Associate,10673,2025-02-06,Hacking/IT Incident,Network Server,Yes,,2025,2025-02-01
+"Primary Health-SMMPP, L.C.",AZ,Business Associate,67567,2025-02-06,Hacking/IT Incident,Network Server,Yes,,2025,2025-02-01
+St. Marys NDS LLC,AZ,Business Associate,11715,2025-02-06,Hacking/IT Incident,Network Server,Yes,,2025,2025-02-01
+Catholic Charities West Michigan,MI,Healthcare Provider,2000,2025-02-06,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+"VectraRx Mail Pharmacy Services, LLC",AZ,Healthcare Provider,109383,2025-02-06,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+City of McKinney,TX,Health Plan,17751,2025-02-03,Unauthorized Access/Disclosure,Network Server,No,,2025,2025-02-01
+"ARC Community Services, Inc.",WI,Healthcare Provider,501,2025-02-02,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+"Primary Health Services Center, Inc.",LA,Healthcare Provider,17202,2025-02-02,Hacking/IT Incident,Network Server,No,,2025,2025-02-01
+Regence BlueShield,OR,Business Associate,783,2025-01-31,Unauthorized Access/Disclosure,Network Server,Yes,,2025,2025-01-01
+Mental Health Association Inc.,MA,Healthcare Provider,12633,2025-01-31,Unauthorized Access/Disclosure,Network Server,No,,2025,2025-01-01
+Methodist Homes of Alabama and Northwest Florida,AL,Healthcare Provider,908,2025-01-30,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+ZI NEUROSCIENCES,NJ,Healthcare Provider,1000,2025-01-30,Unauthorized Access/Disclosure,"Other, Paper/Films",No,,2025,2025-01-01
+St Clair Orthopaedics & Sports Medicine,MI,Healthcare Provider,340000,2025-01-30,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+"Community Health Center, Inc.",CT,Healthcare Provider,1060936,2025-01-30,Hacking/IT Incident,"Electronic Medical Record, Network Server",No,,2025,2025-01-01
+"Cardiology of Virginia, Inc.",VA,Healthcare Provider,21085,2025-01-28,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+"Endo Group, LLC",NY,Healthcare Provider,4498,2025-01-27,Hacking/IT Incident,Email,No,,2025,2025-01-01
+Spring River Mental Health & Wellness,KS,Healthcare Provider,3250,2025-01-24,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+"OrthoMinds, LLC",GA,Business Associate,501,2025-01-24,Hacking/IT Incident,Network Server,Yes,,2025,2025-01-01
+"Benefits Management Group, Inc.",IL,Business Associate,501,2025-01-24,Hacking/IT Incident,Network Server,Yes,,2025,2025-01-01
+"Aprendamos Intervention Team, P.A.",NM,Healthcare Provider,1916,2025-01-23,Unauthorized Access/Disclosure,Email,No,,2025,2025-01-01
+Inlet Health dba Communicare,KY,Healthcare Provider,3771,2025-01-22,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+Apex Custom Software,TX,Business Associate,1500,2025-01-22,Hacking/IT Incident,Network Server,Yes,,2025,2025-01-01
+"University Diagnostic Medical Imaging, PC",NY,Healthcare Provider,138080,2025-01-21,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+"Holdrege Memorial Homes, Inc.",NE,Healthcare Provider,1446,2025-01-20,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+"OU Medicine, Inc.",OK,Healthcare Provider,2537,2025-01-17,Hacking/IT Incident,Email,No,,2025,2025-01-01
+Behavioral Health Resources,WA,Healthcare Provider,49213,2025-01-17,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+Allegheny Health Network Home Medical Equipment LLC and Allegheny Health Network Home Infusion LLC,PA,Healthcare Provider,292773,2025-01-17,Hacking/IT Incident,Network Server,Yes,,2025,2025-01-01
+"Asheville Eye Associates, PLLC",NC,Healthcare Provider,204984,2025-01-17,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+Texas Health and Human Services Commission,TX,Health Plan,61104,2025-01-16,Unauthorized Access/Disclosure,"Desktop Computer, Laptop",No,,2025,2025-01-01
+Community Treatment Solutions,NJ,Healthcare Provider,950,2025-01-16,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+Alliant Health Plans,GA,Health Plan,695,2025-01-16,Unauthorized Access/Disclosure,Paper/Films,No,,2025,2025-01-01
+Mid America Physician Services,KS,Healthcare Provider,104513,2025-01-13,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+"Newport Harbor Pathology Medical Group, Inc.",CA,Healthcare Provider,119341,2025-01-10,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+Samaritan Counseling Center of the Fox Valley,WI,Healthcare Provider,956,2025-01-10,Hacking/IT Incident,Email,No,,2025,2025-01-01
+"BayMark Health Services, Inc.",TX,Business Associate,3170,2025-01-08,Hacking/IT Incident,Network Server,Yes,,2025,2025-01-01
+"McNall & Associates, P.C.",AK,Business Associate,10175,2025-01-08,Hacking/IT Incident,Network Server,Yes,,2025,2025-01-01
+Eastern Idaho Public Health,ID,Healthcare Provider,759,2025-01-07,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2025,2025-01-01
+Medusind Inc.,FL,Business Associate,701475,2025-01-07,Hacking/IT Incident,Network Server,Yes,,2025,2025-01-01
+DentaQuest,WI,Health Plan,868,2025-01-06,Unauthorized Access/Disclosure,Paper/Films,No,,2025,2025-01-01
+"Pediatric Home Respiratory Services, LLC d/b/a Pediatric Home Service",MN,Healthcare Provider,41792,2025-01-06,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+North Los Angeles County Regional Center,CA,Business Associate,500,2025-01-06,Hacking/IT Incident,Network Server,Yes,,2025,2025-01-01
+"Ingham County Medical Care Facility, d/b/a Dobie Road",MI,Healthcare Provider,3078,2025-01-05,Hacking/IT Incident,Electronic Medical Record,Yes,,2025,2025-01-01
+Buffalo Surgery Center,NY,Healthcare Provider,64000,2025-01-04,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+The Plastic Surgery Center,NJ,Healthcare Provider,64813,2025-01-03,Hacking/IT Incident,Network Server,No,,2025,2025-01-01
+"PrintComm, Inc.",MI,Business Associate,3864,2025-01-02,Unauthorized Access/Disclosure,Paper/Films,Yes,,2025,2025-01-01
+Pacific Pulmonary Medical Group,CA,Healthcare Provider,12723,2024-12-31,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+"Legacy Treatment Services, Inc.",NJ,Healthcare Provider,29898,2024-12-31,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+"Tycon Medical Systems, Inc.",VA,Healthcare Provider,112847,2024-12-30,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+"Youngs Counseling, PLLC",TX,Healthcare Provider,790,2024-12-30,Unauthorized Access/Disclosure,Email,No,,2024,2024-12-01
+Omaha Surgical Center,NE,Healthcare Provider,1110,2024-12-30,Hacking/IT Incident,Email,No,,2024,2024-12-01
+Dragonfly Health,AZ,Business Associate,501,2024-12-27,Hacking/IT Incident,Email,Yes,,2024,2024-12-01
+"Word & Brown Insurance Administrators, Inc.",CA,Business Associate,501,2024-12-23,Hacking/IT Incident,"Desktop Computer, Network Server",Yes,,2024,2024-12-01
+Khalil Foundation (DBA Khalil Center),IL,Healthcare Provider,1153,2024-12-22,Unauthorized Access/Disclosure,Network Server,No,,2024,2024-12-01
+"Effortless Office Enterprises, LLC",NV,Business Associate,3112,2024-12-20,Hacking/IT Incident,Network Server,Yes,,2024,2024-12-01
+In-Home Attendant Services Ltd.,TX,Healthcare Provider,22000,2024-12-20,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+"HealthEquity, Inc.",UT,Business Associate,1549,2024-12-20,Hacking/IT Incident,Network Server,Yes,,2024,2024-12-01
+Youth Eastside Services,WA,Healthcare Provider,501,2024-12-20,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+"Kansas City Hospice, Inc",MO,Healthcare Provider,3621,2024-12-20,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+BCBS of TX,IL,Health Plan,1028,2024-12-20,Unauthorized Access/Disclosure,Paper/Films,No,,2024,2024-12-01
+Richmond University Medical Center,NY,Healthcare Provider,674033,2024-12-19,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+Golden Age Home Health Inc.,OK,Healthcare Provider,2280,2024-12-18,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+"CHCM, Inc. dba College Hospital Costa Mesa",CA,Healthcare Provider,38695,2024-12-18,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+"PracticeSuite, Inc.",FL,Business Associate,13000,2024-12-17,Hacking/IT Incident,Network Server,Yes,,2024,2024-12-01
+"Regional Care, Inc.",NE,Healthcare Clearing House,225728,2024-12-17,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+California Correctional Health Care Services,CA,Healthcare Provider,1416,2024-12-17,Loss,Paper/Films,No,,2024,2024-12-01
+Kitsap Mental Health Services,WA,Healthcare Provider,500,2024-12-16,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+Teton Orthopaedics,PA,Healthcare Provider,13409,2024-12-16,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+"Summit Medical Group, PLLC",TN,Healthcare Provider,464159,2024-12-13,Hacking/IT Incident,Email,No,,2024,2024-12-01
+Northwest Asthma and Allergy Center,WA,Healthcare Provider,1000,2024-12-12,Hacking/IT Incident,Email,No,,2024,2024-12-01
+"El Paso Healthcare System, Ltd. d/b/a Las Palmas Del Sol Healthcare",TX,Healthcare Provider,1854,2024-12-11,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2024,2024-12-01
+Community Connections,DC,Healthcare Provider,18949,2024-12-11,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+River Region Cardiology,AL,Healthcare Provider,48600,2024-12-11,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+"Rumpke Consolidated Companies, Inc. & Affiliates Benefits Plan",OH,Health Plan,16946,2024-12-10,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+Village of Elm Grove,WI,Healthcare Provider,668,2024-12-02,Hacking/IT Incident,Network Server,No,,2024,2024-12-01
+SAG-AFTRA Health Plan,CA,Health Plan,35592,2024-12-02,Hacking/IT Incident,Email,No,,2024,2024-12-01
+Atrium Health,NC,Healthcare Provider,585959,2024-12-02,Unauthorized Access/Disclosure,Network Server,No,,2024,2024-12-01
+Hardin County Emergency Medical Services,KY,Healthcare Provider,1046,2024-11-27,Hacking/IT Incident,Email,No,,2024,2024-11-01
+Georgia Department of Public Health,GA,Healthcare Provider,500,2024-11-26,Hacking/IT Incident,Email,No,,2024,2024-11-01
+Texas Tech University Health Sciences Center El Paso,TX,Healthcare Provider,815000,2024-11-25,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+Texas Tech University Health Sciences Center,TX,Healthcare Provider,650000,2024-11-25,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+Citadel of Northbrook,IL,Healthcare Provider,2155,2024-11-25,Hacking/IT Incident,"Electronic Medical Record, Network Server",Yes,,2024,2024-11-01
+"American Addiction Centers, Inc.",TN,Business Associate,410747,2024-11-25,Hacking/IT Incident,Network Server,Yes,,2024,2024-11-01
+Conceptions Reproductive Associates of Colorado,CO,Healthcare Provider,80000,2024-11-25,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+Lubbock County Hospital District,TX,Healthcare Provider,1461776,2024-11-22,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+"East Central Missouri Behavioral Health Services, Inc.",MO,Healthcare Provider,20000,2024-11-21,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+York County,PA,Healthcare Provider,841,2024-11-20,Hacking/IT Incident,Email,No,,2024,2024-11-01
+Laboratory Services Cooperative,WA,Healthcare Provider,501,2024-11-20,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+AuthoraCare Collective,NC,Healthcare Provider,57944,2024-11-19,Unauthorized Access/Disclosure,Network Server,No,,2024,2024-11-01
+Terrace of Hialeah,FL,Healthcare Provider,1177,2024-11-18,Hacking/IT Incident,Network Server,Yes,,2024,2024-11-01
+"Dolton Nursing & Rehab, LLC",IL,Healthcare Provider,1559,2024-11-18,Hacking/IT Incident,"Electronic Medical Record, Network Server",Yes,,2024,2024-11-01
+Villa St. Francis Catholic Care Center,KS,Healthcare Provider,2522,2024-11-18,Unauthorized Access/Disclosure,Electronic Medical Record,Yes,,2024,2024-11-01
+"HealthFund Solutions, LLC",FL,Business Associate,5198,2024-11-15,Hacking/IT Incident,Email,Yes,,2024,2024-11-01
+"ESHA, Inc.",TX,Business Associate,76922,2024-11-15,Hacking/IT Incident,Network Server,Yes,,2024,2024-11-01
+"Maternal Fetal Medicine Associates, PLLC, Carnegie Hill Imaging for Women, and Carnegie Women’s Health (collectively, “the Practices”)",NY,Healthcare Provider,501,2024-11-15,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+VPS of MI PLLC,MI,Healthcare Provider,20604,2024-11-15,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+ASPEN HEALTHCARE SERVICES INC,TX,Healthcare Provider,7195,2024-11-15,Hacking/IT Incident,Electronic Medical Record,No,,2024,2024-11-01
+Western Montana Mental Health Center,MT,Healthcare Provider,86758,2024-11-14,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+Physicians' Primary Care of Southwest Florida,FL,Healthcare Provider,500,2024-11-14,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+"Liberty Endo, LLC",NY,Healthcare Provider,942,2024-11-13,Hacking/IT Incident,Email,No,,2024,2024-11-01
+Rocky Mountain Gastroenterology Associates PLLC,CO,Healthcare Provider,366491,2024-11-13,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+"Radiologic Medical Services, P.C.",IA,Healthcare Provider,56902,2024-11-12,Hacking/IT Incident,Email,No,,2024,2024-11-01
+Humboldt Independent Practice Association (Humboldt IPA),CA,Healthcare Provider,500,2024-11-11,Hacking/IT Incident,Email,No,,2024,2024-11-01
+"United Seating and Mobility, LLC dba Numotion",TN,Healthcare Provider,2319,2024-11-11,Hacking/IT Incident,Email,No,,2024,2024-11-01
+Mid-Minnesota Management Services d/b/a Central Resources,IL,Business Associate,1232,2024-11-08,Unauthorized Access/Disclosure,Other,Yes,,2024,2024-11-01
+Huron Inc. Health Plan,MI,Health Plan,750,2024-11-08,Unauthorized Access/Disclosure,Network Server,No,,2024,2024-11-01
+"South West Family Medicine Associates, PA",TX,Healthcare Provider,36959,2024-11-07,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+Great Plains Regional Medical Center,OK,Healthcare Provider,133149,2024-11-07,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+Oklahoma Spine Hospital,OK,Healthcare Provider,38945,2024-11-05,Unauthorized Access/Disclosure,Email,No,,2024,2024-11-01
+Thompson Coburn LLP,MO,Business Associate,305088,2024-11-04,Hacking/IT Incident,Network Server,Yes,,2024,2024-11-01
+"Mohawk Valley Cardiology, P.C.",NY,Healthcare Provider,4973,2024-11-04,Unauthorized Access/Disclosure,Other,No,,2024,2024-11-01
+Mid-Ohio Psychological Services Inc.,OH,Healthcare Provider,40345,2024-11-01,Unauthorized Access/Disclosure,Network Server,No,,2024,2024-11-01
+"Northeast Professional Home Care, Inc.",OH,Healthcare Provider,648,2024-11-01,Hacking/IT Incident,Email,No,,2024,2024-11-01
+"Brain & Eye Connection Vision Clinic, PC",OK,Healthcare Provider,2207,2024-11-01,Hacking/IT Incident,Network Server,No,,2024,2024-11-01
+Kaiser Foundation Hospitals,CA,Healthcare Provider,44600,2024-11-01,Hacking/IT Incident,Email,No,,2024,2024-11-01
+Rockford Gastroenterology Associates,IL,Healthcare Provider,147253,2024-10-30,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+Family Medical Center,MD,Healthcare Provider,2100,2024-10-29,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+Boatright Inc.,IN,Healthcare Provider,746,2024-10-29,Hacking/IT Incident,Email,No,,2024,2024-10-01
+"The Physical Medicine & Rehabilitation Center, P.A.",NJ,Healthcare Provider,4083,2024-10-28,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+North Texas Medical Specialists,TX,Healthcare Provider,994,2024-10-28,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2024,2024-10-01
+"Hawaii Radiologic Associates, Ltd.",HI,Healthcare Provider,23205,2024-10-25,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+St. Anthony Regional Hospital,IA,Healthcare Provider,501,2024-10-25,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+Easterseals Rehabilitation Center Evansville,IN,Healthcare Provider,8394,2024-10-25,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+Gandara Mental Health Center,MA,Healthcare Provider,20024,2024-10-24,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+"Northeast Spine and Sports Medicine, LLC",NJ,Healthcare Provider,6300,2024-10-24,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+Positive Behavior Supports Corporation,FL,Healthcare Provider,2247,2024-10-24,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+Mystic Valley Elder Services - Business Associate,MA,Business Associate,2402,2024-10-22,Hacking/IT Incident,Network Server,Yes,,2024,2024-10-01
+Arkansas Blue Cross and Blue Shield,AR,Health Plan,633,2024-10-22,Hacking/IT Incident,Network Server,Yes,,2024,2024-10-01
+Smiles in the Pines,NC,Healthcare Provider,1800,2024-10-21,Unauthorized Access/Disclosure,"Desktop Computer, Electronic Medical Record, Email, Other Portable Electronic Device, Paper/Films",No,,2024,2024-10-01
+East Adams Rural Healthcare,WA,Healthcare Provider,13206,2024-10-21,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+Clay Platte Family Medicine,MO,Healthcare Provider,53916,2024-10-18,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+"Advanced Recovery Equipment & Supplies, LLC",NY,Healthcare Provider,56000,2024-10-18,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+Detroit Wayne Integrated Health Network,MI,Healthcare Provider,3347,2024-10-18,Hacking/IT Incident,Laptop,No,,2024,2024-10-01
+RRCA Accounts Management Inc.,IL,Business Associate,115837,2024-10-18,Hacking/IT Incident,"Desktop Computer, Network Server",Yes,,2024,2024-10-01
+"Summit Pathology and Summit Pathology Laboratories, Inc.",CO,Healthcare Provider,1813538,2024-10-18,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+Chicago Cardiology Institute,IL,Healthcare Provider,2743,2024-10-18,Hacking/IT Incident,Email,No,,2024,2024-10-01
+"Valleygate Dental Surgery Centers of Charlotte, Fayetteville, and the West, LLC.",NC,Healthcare Provider,14589,2024-10-17,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+Jacksonville Children's Multispecialty Clinics/Atlantic Medical Management,NC,Healthcare Provider,2224,2024-10-17,Unauthorized Access/Disclosure,Email,No,,2024,2024-10-01
+Tri County Medical Supply And Respiratory Services Inc.,AR,Healthcare Provider,8000,2024-10-16,Improper Disposal,Paper/Films,No,,2024,2024-10-01
+"Ad Valorem Records, Inc.",TN,Business Associate,590,2024-10-11,Unauthorized Access/Disclosure,Paper/Films,Yes,,2024,2024-10-01
+"Gryphon Healthcare, LLC",TX,Business Associate,393358,2024-10-11,Hacking/IT Incident,Network Server,Yes,,2024,2024-10-01
+"Visionworks of America, Inc.",TX,Healthcare Provider,39825,2024-10-10,Hacking/IT Incident,Email,No,,2024,2024-10-01
+"DMEscripts, LLC",IN,Business Associate,9993,2024-10-08,Hacking/IT Incident,Email,Yes,,2024,2024-10-01
+"TheraCom, L.L.C.",PA,Healthcare Provider,9271,2024-10-08,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+Schneider Regional Medical Center,,Healthcare Provider,1570,2024-10-07,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+"Ciox Health LLC, d/b/a Datavant Group",AZ,Business Associate,320702,2024-10-07,Hacking/IT Incident,Email,Yes,,2024,2024-10-01
+"ATSG, Inc",NY,Business Associate,909469,2024-10-04,Hacking/IT Incident,Network Server,Yes,,2024,2024-10-01
+"General Physician, P.C.",NY,Healthcare Provider,501,2024-10-04,Hacking/IT Incident,Email,No,,2024,2024-10-01
+Omni Family Health,CA,Healthcare Provider,468344,2024-10-04,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+"Dr. Daniel J. Leeman, M.D.",TX,Healthcare Provider,50000,2024-10-04,Hacking/IT Incident,Network Server,No,,2024,2024-10-01
+Walgreen Co.,IL,Healthcare Provider,1915,2024-10-01,Unauthorized Access/Disclosure,Laptop,No,,2024,2024-10-01
+"Texas Spine Consultants, PLLC",TX,Healthcare Provider,8048,2024-09-26,Hacking/IT Incident,Email,No,,2024,2024-09-01
+"Community Clinic of Maui, Inc. dba Malama I Ke Ola Health Center",HI,Healthcare Provider,123816,2024-09-26,Hacking/IT Incident,Network Server,No,,2024,2024-09-01
+University of Michigan/Michigan Medicine,MI,Healthcare Provider,57891,2024-09-26,Hacking/IT Incident,Email,No,,2024,2024-09-01
+"DAP Health, Inc.",CA,Healthcare Provider,129048,2024-09-24,Hacking/IT Incident,Email,No,,2024,2024-09-01
+"Asheville Arthritis and Osteoporosis Center, P.A.",NC,Healthcare Provider,58251,2024-09-20,Hacking/IT Incident,Network Server,No,,2024,2024-09-01
+Muskogee City County Enhanced 911 Trust Authority,OK,Business Associate,180000,2024-09-20,Hacking/IT Incident,Network Server,Yes,,2024,2024-09-01
+"Jacobsen Construction Co., Inc. Health Plan",UT,Health Plan,2127,2024-09-20,Hacking/IT Incident,Network Server,No,,2024,2024-09-01
+"Southern Bone & Joint Specialists, PA (“Southern Bone”)",MS,Healthcare Provider,7162,2024-09-17,Hacking/IT Incident,Email,No,,2024,2024-09-01
+Rim Country Health and Rehabilitation,AZ,Healthcare Provider,721,2024-09-16,Hacking/IT Incident,Email,No,,2024,2024-09-01
+"ERLC LLC, d/b/a Elitecare Emergency Hospital",TX,Healthcare Provider,24754,2024-09-16,Hacking/IT Incident,Network Server,No,,2024,2024-09-01
+JTaylor & Associates LLC,TX,Business Associate,22315,2024-09-16,Hacking/IT Incident,Email,Yes,,2024,2024-09-01
+Maryville Academy,IL,Healthcare Provider,500,2024-09-13,Hacking/IT Incident,Network Server,No,,2024,2024-09-01
+Atrium Health,NC,Healthcare Provider,32120,2024-09-13,Hacking/IT Incident,Email,No,,2024,2024-09-01
+Chambers Co Public Hospital District No1 dba Chambers Health,TX,Healthcare Provider,85531,2024-09-13,Hacking/IT Incident,Network Server,No,,2024,2024-09-01
+Young Consulting LLC,GA,Business Associate,961003,2024-09-11,Hacking/IT Incident,Network Server,Yes,,2024,2024-09-01
+"Nationwide Recovery Services, Inc.",GA,Business Associate,501,2024-09-09,Hacking/IT Incident,Network Server,Yes,,2024,2024-09-01
+Oficina Medica,,Healthcare Provider,2618,2024-09-08,Theft,"Desktop Computer, Other Portable Electronic Device",No,,2024,2024-09-01
+Welcome Health,CA,Healthcare Provider,597,2024-09-06,Hacking/IT Incident,Email,No,,2024,2024-09-01
+Seneca Nation Health System,NY,Healthcare Provider,16879,2024-09-06,Hacking/IT Incident,Network Server,No,,2024,2024-09-01
+Premier Health Family Care – North and Premier Health Family Care of Vandalia,OH,Healthcare Provider,3092,2024-09-03,Unauthorized Access/Disclosure,Paper/Films,No,,2024,2024-09-01
+"EngageMED, Inc",AR,Business Associate,249297,2024-08-30,Hacking/IT Incident,Network Server,Yes,,2024,2024-08-01
+Minnesota Department of Human Services,MN,Healthcare Provider,4329,2024-08-30,Hacking/IT Incident,Email,No,,2024,2024-08-01
+"CODAC Inc dba CODAC Behavioral Health and CODAC Healthcare, LLC",RI,Healthcare Provider,9592,2024-08-27,Hacking/IT Incident,Network Server,No,,2024,2024-08-01
+Blue Cross and Blue Shield of North Carolina,NC,Business Associate,972,2024-08-27,Hacking/IT Incident,Network Server,Yes,,2024,2024-08-01
+Pomona Community Health Center dba ParkTree Community Health Center,CA,Healthcare Provider,40964,2024-08-21,Hacking/IT Incident,Network Server,No,,2024,2024-08-01
+"Excelsior Orthopaedics, LLC",NY,Healthcare Provider,292913,2024-08-21,Hacking/IT Incident,Network Server,No,,2024,2024-08-01
+"VeriSource Services, Inc.",TX,Business Associate,112726,2024-08-20,Hacking/IT Incident,Network Server,Yes,,2024,2024-08-01
+"Acadian Ambulance Service, Inc.",LA,Healthcare Provider,2896985,2024-08-20,Hacking/IT Incident,Network Server,No,,2024,2024-08-01
+"Contents Trader, Inc.",TX,Healthcare Provider,27329,2024-08-20,Unauthorized Access/Disclosure,Network Server,No,,2024,2024-08-01
+"Kerber, Eck & Braeckel LLP",IL,Business Associate,134918,2024-08-16,Hacking/IT Incident,Network Server,Yes,,2024,2024-08-01
+"Specialty Networks, Inc.",TN,Business Associate,411037,2024-08-15,Hacking/IT Incident,Network Server,Yes,,2024,2024-08-01
+Carespring Health Care Management LLC,OH,Healthcare Provider,64609,2024-08-15,Hacking/IT Incident,Network Server,No,,2024,2024-08-01
+siParadigm LLC,NJ,Healthcare Provider,501,2024-08-09,Hacking/IT Incident,Network Server,No,,2024,2024-08-01
+"Turning Point of Central California, Inc.",CA,Healthcare Provider,53737,2024-08-09,Hacking/IT Incident,Network Server,No,,2024,2024-08-01
+"HealthEquity, Inc.",UT,Business Associate,4300000,2024-08-09,Hacking/IT Incident,Network Server,Yes,,2024,2024-08-01
+"Gramercy Surgery Center, Inc.",NY,Healthcare Provider,52372,2024-08-09,Hacking/IT Incident,Network Server,No,,2024,2024-08-01
+"Dental Specialists of Minnesota, PLLC dba The Dental Specialists",MN,Healthcare Provider,38442,2024-08-09,Hacking/IT Incident,Email,No,,2024,2024-08-01
+"PDG, P.A. dba Park Dental",MN,Healthcare Provider,238667,2024-08-09,Hacking/IT Incident,Email,No,,2024,2024-08-01
+Pemiscot Memorial Health System,MO,Healthcare Provider,33279,2024-08-09,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2024,2024-08-01
+"Pocahontas Medical Clinic, PA",AR,Healthcare Provider,31216,2024-08-06,Hacking/IT Incident,Network Server,No,,2024,2024-08-01
+"Calibrated Healthcare, LLC",CA,Business Associate,6890,2024-08-02,Hacking/IT Incident,Network Server,Yes,,2024,2024-08-01
+Alabama Cardiovascular Group,AL,Healthcare Provider,280534,2024-08-02,Hacking/IT Incident,Network Server,No,,2024,2024-08-01
+Wayne Memorial Hospital,GA,Healthcare Provider,2500,2024-08-02,Hacking/IT Incident,Network Server,No,,2024,2024-08-01
+Roseland Community Hospital Association,IL,Healthcare Provider,500,2024-08-01,Hacking/IT Incident,Network Server,No,,2024,2024-08-01
+Frilot L.L.C.,LA,Business Associate,501,2024-08-01,Hacking/IT Incident,Network Server,Yes,,2024,2024-08-01
+Deer Oaks Behavioral Health,TX,Healthcare Provider,171871,2024-07-31,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+"Special Health Resources of Texas, Inc.",TX,Healthcare Provider,500,2024-07-30,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+Delta County Memorial Hospital District (Delta Health),CO,Healthcare Provider,148363,2024-07-29,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+United of Omaha Life Insurance Company,NE,Health Plan,107894,2024-07-26,Hacking/IT Incident,Email,No,,2024,2024-07-01
+Surgery Center of Mid Florida,FL,Healthcare Provider,48684,2024-07-24,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+Sutton Dental Arts,OR,Healthcare Provider,4109,2024-07-22,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+"EMS Department for the Kansas City, Kansas Fire Department",KS,Healthcare Provider,501,2024-07-20,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+Barrett Eye Care,IN,Healthcare Provider,4648,2024-07-19,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+"Sun City Pediatrics, PA",TX,Healthcare Provider,4500,2024-07-19,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+"Community Counseling of Bristol County, Inc.",MA,Healthcare Provider,44991,2024-07-19,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+"Change Healthcare, Inc.",MN,Business Associate,192700000,2024-07-19,Hacking/IT Incident,Network Server,Yes,,2024,2024-07-01
+Hospital Auxilio Mutuo,,Healthcare Provider,500,2024-07-13,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+Fairfax Radiological Consultants,VA,Healthcare Provider,3512,2024-07-12,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+"Meridian Internal Medicine, P.A.",NC,Healthcare Provider,2656,2024-07-10,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+"Smith, Gambrell & Russell LLP",GA,Business Associate,3370,2024-07-09,Hacking/IT Incident,Network Server,Yes,,2024,2024-07-01
+School Employees' Benefit Trust,IN,Health Plan,1371,2024-07-05,Hacking/IT Incident,Network Server,Yes,,2024,2024-07-01
+Palomar Health Medical Group,CA,Healthcare Provider,1140221,2024-07-03,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+Ascension Health,MO,Healthcare Provider,5466931,2024-07-03,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+DaVita Inc.,CO,Healthcare Provider,67443,2024-07-03,Unauthorized Access/Disclosure,Network Server,No,,2024,2024-07-01
+"Atlanta Perinatal Consultants, LLP",GA,Healthcare Provider,1508,2024-07-02,Hacking/IT Incident,Network Server,Yes,,2024,2024-07-01
+Regional Obstetrical Consultants PC,TN,Healthcare Provider,25650,2024-07-02,Hacking/IT Incident,Network Server,No,,2024,2024-07-01
+"Georgia Kidney Associates, Inc.",GA,Healthcare Provider,9940,2024-06-28,Theft,Other,No,,2024,2024-06-01
+Geisinger,PA,Healthcare Provider,1276026,2024-06-21,Unauthorized Access/Disclosure,Network Server,Yes,,2024,2024-06-01
+Texas Retina Associates,TX,Healthcare Provider,312867,2024-06-21,Hacking/IT Incident,Network Server,No,,2024,2024-06-01
+"The Lash Group, LLC",PA,Business Associate,15196,2024-06-21,Hacking/IT Incident,Network Server,Yes,,2024,2024-06-01
+Radiology and Imaging Specialists,FL,Healthcare Provider,37210,2024-06-17,Hacking/IT Incident,Email,No,,2024,2024-06-01
+"Neurobehavioral Medicine Consultants, P.C.",OH,Healthcare Provider,18182,2024-06-14,Hacking/IT Incident,Network Server,No,,2024,2024-06-01
+IBEW LOCAL 236 WELFARE FUND,CT,Health Plan,3217,2024-06-11,Hacking/IT Incident,Network Server,Yes,,2024,2024-06-01
+ASBESTOS WORKERS LOCAL 42 WELFARE PLAN,GA,Health Plan,520,2024-06-11,Hacking/IT Incident,Network Server,Yes,,2024,2024-06-01
+"Signature Performance, Inc.",NE,Business Associate,130228,2024-06-10,Hacking/IT Incident,Network Server,Yes,,2024,2024-06-01
+"CRG Lynwood, LLC, d/b/a Lynwood Manor",MI,Healthcare Provider,6566,2024-06-10,Hacking/IT Incident,Network Server,No,,2024,2024-06-01
+Community Alliance Rehabilitation Services,NE,Healthcare Provider,10750,2024-06-07,Hacking/IT Incident,Network Server,No,,2024,2024-06-01
+Insurance ACE/Humana Inc.,KY,Health Plan,15003,2024-06-05,Unauthorized Access/Disclosure,Paper/Films,No,,2024,2024-06-01
+Panorama Eyecare,CO,Healthcare Provider,377911,2024-06-05,Hacking/IT Incident,Network Server,No,,2024,2024-06-01
+"Wilson & Company, Inc., Engineers & Architects Health and Welfare Benefit Plan",NM,Health Plan,1867,2024-06-04,Hacking/IT Incident,Network Server,No,,2024,2024-06-01
+Easterseals Central Illinois,IL,Healthcare Provider,500,2024-05-31,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+"AmerisourceBergen Specialty Group, LLC",PA,Healthcare Provider,3102,2024-05-31,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+"AmerisourceBergen Specialty Group, LLC",PA,Healthcare Provider,252214,2024-05-24,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+A&A Services d/b/a Sav-Rx,NE,Business Associate,2812336,2024-05-24,Hacking/IT Incident,Network Server,Yes,,2024,2024-05-01
+City of St. Cloud,FL,Health Plan,2273,2024-05-24,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+Tri-City Healthcare District,CA,Healthcare Provider,108149,2024-05-23,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+"Trionfo Solutions, LLC",IL,Business Associate,81588,2024-05-22,Hacking/IT Incident,Network Server,Yes,,2024,2024-05-01
+Omni Healthcare Financial Holdings,NC,Business Associate,16852,2024-05-18,Hacking/IT Incident,Network Server,Yes,,2024,2024-05-01
+"Gastroenterology Associates of Central Florida, P.A./ Center for Digestive Health",FL,Healthcare Provider,121693,2024-05-17,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+El Centro Del Barrio d/b/a CentroMed,TX,Healthcare Provider,400000,2024-05-17,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+Victoria Eye Center/Victoria Surgery Center/Victoria Vision Center,TX,Healthcare Provider,80000,2024-05-17,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+"Pope & Conner Consulting, Inc.",WI,Business Associate,1035,2024-05-15,Hacking/IT Incident,Email,Yes,,2024,2024-05-01
+"Hypertension-Nephrology Associates, P.C.",PA,Healthcare Provider,39491,2024-05-14,Hacking/IT Incident,"Electronic Medical Record, Network Server",No,,2024,2024-05-01
+"Superior Air-Ground Ambulance Service, Inc.",IL,Healthcare Provider,1039972,2024-05-10,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+Texas Panhandle Centers,TX,Healthcare Provider,16394,2024-05-09,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+"WebTPA Employer Services, LLC (“WebTPA”)",TX,Business Associate,2518533,2024-05-08,Hacking/IT Incident,Network Server,Yes,,2024,2024-05-01
+1st Choice Home Care,AR,Healthcare Provider,1600,2024-05-08,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2024,2024-05-01
+Watson Clinic,FL,Healthcare Provider,280278,2024-05-08,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+Kenneth Young Center,IL,Healthcare Provider,6842,2024-05-06,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+Medical Express Ambulance Inc.  D/B/A Medex Ambulance,IL,Healthcare Provider,121190,2024-05-02,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+"United Seating and Mobility, L.L.C., d/b/a Numotion",TN,Healthcare Provider,602265,2024-05-01,Hacking/IT Incident,Network Server,No,,2024,2024-05-01
+AMERICAN RENAL MANAGEMENT,TN,Business Associate,501,2024-04-29,Hacking/IT Incident,Network Server,Yes,,2024,2024-04-01
+Signature Healthcare Services LLC,CA,Business Associate,14696,2024-04-27,Hacking/IT Incident,Network Server,Yes,,2024,2024-04-01
+"LivaNova USA, Inc.",TX,Business Associate,180000,2024-04-26,Hacking/IT Incident,Network Server,Yes,,2024,2024-04-01
+Empath-Stratum Inc. doing business as  Empath Health,FL,Healthcare Provider,5545,2024-04-25,Hacking/IT Incident,Email,No,,2024,2024-04-01
+Therapeutic Health Services,WA,Healthcare Provider,501,2024-04-25,Hacking/IT Incident,Network Server,No,,2024,2024-04-01
+Kootenai Health,ID,Healthcare Provider,464088,2024-04-24,Hacking/IT Incident,Network Server,No,,2024,2024-04-01
+"Medical Billing Specialists, Inc.",MA,Business Associate,43673,2024-04-24,Hacking/IT Incident,Network Server,Yes,,2024,2024-04-01
+NorthBay Healthcare Corporation,CA,Healthcare Provider,569012,2024-04-23,Hacking/IT Incident,Network Server,No,,2024,2024-04-01
+The Prudential Insurance Company of America,NJ,Health Plan,36075,2024-04-22,Hacking/IT Incident,Network Server,No,,2024,2024-04-01
+"South Texas Oncology and Hematology, PLLC",TX,Healthcare Provider,175195,2024-04-19,Hacking/IT Incident,"Desktop Computer, Network Server",No,,2024,2024-04-01
+"Cumberland Heights Foundation, Inc.",TN,Healthcare Provider,5078,2024-04-19,Hacking/IT Incident,Email,No,,2024,2024-04-01
+"Bridgeway Center, Inc.",FL,Healthcare Provider,36353,2024-04-19,Hacking/IT Incident,Network Server,No,,2024,2024-04-01
+"Hospice of the Bluegrass, Inc. dba Bluegrass Care Navigators",KY,Healthcare Provider,2282,2024-04-17,Hacking/IT Incident,Email,No,,2024,2024-04-01
+"Kaiser Foundation Health Plan, Inc.",CA,Health Plan,13400000,2024-04-12,Unauthorized Access/Disclosure,Network Server,No,,2024,2024-04-01
+Rebound Orthopedics & Neurosurgery,WA,Healthcare Provider,426536,2024-04-10,Hacking/IT Incident,Network Server,No,,2024,2024-04-01
+"Island Ambulatory Surgery Center, LLC",NY,Healthcare Provider,7900,2024-04-05,Hacking/IT Incident,Network Server,No,,2024,2024-04-01
+Sleep Management Institute,OH,Healthcare Provider,500,2024-04-05,Hacking/IT Incident,Network Server,No,,2024,2024-04-01
+"Gaia Software, LLC",CO,Business Associate,56676,2024-04-05,Hacking/IT Incident,Network Server,Yes,,2024,2024-04-01
+UNC Hospitals,NC,Healthcare Provider,3142,2024-04-02,Hacking/IT Incident,Email,No,,2024,2024-04-01
+"Continuum Health Alliance, LLC",NJ,Business Associate,377119,2024-04-01,Hacking/IT Incident,Network Server,Yes,,2024,2024-04-01
+"Northern Virginia Oral, Maxillofacial & Implant Surgery",VA,Healthcare Provider,4333,2024-03-29,Hacking/IT Incident,Network Server,No,,2024,2024-03-01
+Delta Health System,MS,Healthcare Provider,216532,2024-03-29,Hacking/IT Incident,Network Server,No,,2024,2024-03-01
+"Strive Holdco, LLC",TX,Healthcare Provider,51477,2024-03-28,Unauthorized Access/Disclosure,Network Server,No,,2024,2024-03-01
+Family Health Center,MI,Healthcare Provider,33240,2024-03-24,Hacking/IT Incident,Network Server,No,,2024,2024-03-01
+"Mary H. Makhlouf, DMD, MS, PA",NC,Healthcare Provider,1797,2024-03-22,Hacking/IT Incident,Network Server,No,,2024,2024-03-01
+M&D Capital Premier Billing LLC,NY,Business Associate,284326,2024-03-21,Hacking/IT Incident,Network Server,Yes,,2024,2024-03-01
+"Sycamore Rehabilitation Services, Inc.",IN,Healthcare Provider,3414,2024-03-18,Hacking/IT Incident,Network Server,No,,2024,2024-03-01
+Bronson Healthcare Group,MI,Healthcare Provider,1597,2024-03-13,Unauthorized Access/Disclosure,Electronic Medical Record,No,,2024,2024-03-01
+A5 PHARMACY INC.,NY,Healthcare Provider,3000,2024-03-13,Hacking/IT Incident,Network Server,No,,2024,2024-03-01
+Lindsay Municipal Hospital,OK,Healthcare Provider,500,2024-03-13,Hacking/IT Incident,Network Server,No,,2024,2024-03-01
+CCM Health,MN,Healthcare Provider,84329,2024-03-12,Hacking/IT Incident,Network Server,No,,2024,2024-03-01
+Access TeleCare,TX,Healthcare Provider,62669,2024-03-08,Hacking/IT Incident,Email,No,,2024,2024-03-01
+"Orsini Pharmaceutical Services, LLC",IL,Healthcare Provider,1433,2024-03-08,Hacking/IT Incident,Email,No,,2024,2024-03-01
+Dental Group of Amarillo,TX,Healthcare Provider,3821,2024-03-06,Hacking/IT Incident,Network Server,No,,2024,2024-03-01
+Seaglass Chiropractic,NJ,Healthcare Provider,650,2024-03-06,Theft,"Laptop, Other Portable Electronic Device",No,,2024,2024-03-01
+"Vail Summit Orthopaedics, LLC (“VSON”)",CO,Healthcare Provider,1138,2024-03-04,Hacking/IT Incident,Network Server,No,,2024,2024-03-01
+UNITE HERE,NY,Business Associate,791273,2024-02-23,Hacking/IT Incident,Network Server,Yes,,2024,2024-02-01
+Prague Regional Memorial Hospital,OK,Healthcare Provider,1347,2024-02-22,Hacking/IT Incident,Email,No,,2024,2024-02-01
+interventional Pain and Regenerative Medicine,TX,Healthcare Provider,2843,2024-02-21,Unauthorized Access/Disclosure,Paper/Films,No,,2024,2024-02-01
+Hospice of Huntington,WV,Healthcare Provider,9013,2024-02-16,Hacking/IT Incident,Network Server,No,,2024,2024-02-01
+"Mental Health Center of North Central Alabama, Inc.",AL,Healthcare Provider,75667,2024-02-16,Hacking/IT Incident,Network Server,No,,2024,2024-02-01
+Amin Radiology d/b/a Citrus Diagnostic Center,FL,Healthcare Provider,1273,2024-02-15,Hacking/IT Incident,Network Server,No,,2024,2024-02-01
+Lena Pope Home Inc.,TX,Healthcare Provider,3954,2024-02-15,Hacking/IT Incident,Email,No,,2024,2024-02-01
+"Biomatrix Specialty Pharmacy, LLC",FL,Healthcare Provider,3640,2024-02-13,Hacking/IT Incident,Network Server,No,,2024,2024-02-01
+"Lexington Health, Inc.",SC,Healthcare Provider,1994,2024-02-12,Hacking/IT Incident,"Email, Other",No,,2024,2024-02-01
+"Bradford Health Services, LLC",AL,Healthcare Provider,28543,2024-02-06,Hacking/IT Incident,Network Server,No,,2024,2024-02-01
+Bloom Health Centers,MD,Healthcare Provider,1954,2024-02-01,Hacking/IT Incident,Email,No,,2024,2024-02-01
+CNO ACE,IN,Health Plan,65295,2024-01-26,Hacking/IT Incident,Network Server,No,,2024,2024-01-01
+INTEGRIS Health,OK,Healthcare Provider,2385646,2024-01-26,Hacking/IT Incident,Network Server,No,,2024,2024-01-01
+"AHS Management Company, Inc.",TN,Business Associate,23686,2024-01-22,Hacking/IT Incident,Network Server,Yes,,2024,2024-01-01
+Dickinson County Health Department,KS,Healthcare Provider,1063,2024-01-17,Unauthorized Access/Disclosure,Desktop Computer,No,,2024,2024-01-01
+"HORNE, LLP",MS,Business Associate,170052,2024-01-13,Hacking/IT Incident,Network Server,Yes,,2024,2024-01-01
+Azura Vascular Care,PA,Business Associate,348000,2024-01-13,Hacking/IT Incident,Network Server,Yes,,2024,2024-01-01
+"Covenant Care California, LLC",CA,Healthcare Provider,501,2024-01-12,Hacking/IT Incident,Network Server,No,,2024,2024-01-01
+Family Healthcare Center,ND,Healthcare Provider,6457,2024-01-11,Hacking/IT Incident,Network Server,Yes,,2024,2024-01-01
+InHealth Technologies,CA,Healthcare Provider,12143,2024-01-09,Hacking/IT Incident,Network Server,No,,2024,2024-01-01
+"Psychological Holdings, PLLC d/b/a Senior PsychCare",TX,Healthcare Provider,75349,2024-01-08,Hacking/IT Incident,Network Server,No,,2024,2024-01-01
+Catholic Heath Initiative Trinity Medical Center,OH,Healthcare Provider,797,2024-01-08,Hacking/IT Incident,Network Server,Yes,,2024,2024-01-01
+Daleville Dental II LLC,AL,Healthcare Provider,500,2024-01-05,Hacking/IT Incident,Network Server,No,,2024,2024-01-01
+"Cooper Clinic, P.A.",TX,Healthcare Provider,124341,2024-01-05,Hacking/IT Incident,Network Server,No,,2024,2024-01-01
+"ConsensioHealth, LLC",WI,Business Associate,60871,2024-01-04,Hacking/IT Incident,Network Server,Yes,,2024,2024-01-01
+"Amerigroup Iowa, Inc",IN,Business Associate,1023,2024-01-03,Unauthorized Access/Disclosure,Network Server,Yes,,2024,2024-01-01
+"Electrostim Medical Services, Inc. d/b/A EMSI",FL,Healthcare Provider,542990,2023-12-28,Hacking/IT Incident,Network Server,No,,2023,2023-12-01
+Fred Hutchinson Cancer Center,WA,Healthcare Provider,1840927,2023-12-22,Hacking/IT Incident,Network Server,No,,2023,2023-12-01
+"Plaza Radiology, LLC",TN,Healthcare Provider,569022,2023-12-20,Hacking/IT Incident,"Desktop Computer, Network Server",No,,2023,2023-12-01
+Marathon County Special Education,WI,Healthcare Provider,10079,2023-12-20,Hacking/IT Incident,Email,No,,2023,2023-12-01
+Dallas County,TX,Healthcare Provider,501,2023-12-18,Hacking/IT Incident,Network Server,No,,2023,2023-12-01
+"Primary Health & Wellness Center, LLC",MD,Healthcare Provider,4792,2023-12-17,Hacking/IT Incident,Network Server,No,,2023,2023-12-01
+"D'Youville Life and Wellness Community, Inc.",MA,Healthcare Provider,19691,2023-12-14,Hacking/IT Incident,Network Server,No,,2023,2023-12-01
+Heart of Texas Behavioral Health Network,TX,Healthcare Provider,63776,2023-12-12,Hacking/IT Incident,Network Server,No,,2023,2023-12-01
+"Healix Infusion Therapy, LLC",TX,Business Associate,10277,2023-12-11,Hacking/IT Incident,Network Server,Yes,,2023,2023-12-01
+Keenan & Associates,CA,Health Plan,1651124,2023-12-11,Hacking/IT Incident,Network Server,No,,2023,2023-12-01
+Health Alliance Hospital Mary's Avenue Campus,NY,Healthcare Provider,264197,2023-12-11,Hacking/IT Incident,Network Server,No,,2023,2023-12-01
+"Foursquare Healthcare, Ltd.",TX,Healthcare Provider,10890,2023-11-27,Hacking/IT Incident,Network Server,No,,2023,2023-11-01
+"Equality Health, LLC",AZ,Healthcare Provider,9240,2023-11-27,Hacking/IT Incident,Email,No,,2023,2023-11-01
+Morrison Community Hospital District,IL,Healthcare Provider,122488,2023-11-23,Hacking/IT Incident,Network Server,No,,2023,2023-11-01
+Community Dental,ME,Healthcare Provider,1523,2023-11-17,Hacking/IT Incident,Network Server,No,,2023,2023-11-01
+Claxton-Hepburn Medical Center,NY,Healthcare Provider,757,2023-11-02,Hacking/IT Incident,Network Server,No,,2023,2023-11-01
+Premier Health Partners and wholly owned covered entities listed in description section below,OH,Healthcare Provider,10833,2023-10-12,Hacking/IT Incident,Network Server,No,,2023,2023-10-01
+"Aspen Dental Management, Inc.",NY,Business Associate,62183,2023-08-18,Hacking/IT Incident,Network Server,Yes,,2023,2023-08-01
+"TAG Urgent Care Support Services, LLC",NY,Business Associate,516985,2023-08-18,Hacking/IT Incident,Network Server,Yes,,2023,2023-08-01
+"ProSmile Holdings, LLC",NJ,Business Associate,39674,2023-03-28,Hacking/IT Incident,Email,Yes,,2023,2023-03-01
+Shady Lane Nursing Home,NJ,Healthcare Provider,566,2023-02-17,Hacking/IT Incident,"Desktop Computer, Laptop, Network Server",No,,2023,2023-02-01

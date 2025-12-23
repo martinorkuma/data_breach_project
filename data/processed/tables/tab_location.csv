@@ -1,0 +1,25 @@
+breach_location,n,pct
+Network Server,480,0.6469002695417789
+Email,167,0.22506738544474394
+Paper/Films,27,0.03638814016172507
+Electronic Medical Record,22,0.029649595687331536
+Other,13,0.01752021563342318
+"Desktop Computer, Network Server",5,0.006738544474393531
+Desktop Computer,4,0.005390835579514825
+Laptop,4,0.005390835579514825
+"Electronic Medical Record, Network Server",4,0.005390835579514825
+"Desktop Computer, Laptop",2,0.0026954177897574125
+"Desktop Computer, Electronic Medical Record, Email, Other Portable Electronic Device, Paper/Films",1,0.0013477088948787063
+"Desktop Computer, Laptop, Network Server",1,0.0013477088948787063
+"Electronic Medical Record, Email",1,0.0013477088948787063
+"Desktop Computer, Other Portable Electronic Device",1,0.0013477088948787063
+"Electronic Medical Record, Paper/Films",1,0.0013477088948787063
+"Electronic Medical Record, Other",1,0.0013477088948787063
+"Laptop, Network Server, Other",1,0.0013477088948787063
+"Email, Other",1,0.0013477088948787063
+"Email, Network Server",1,0.0013477088948787063
+"Laptop, Other Portable Electronic Device",1,0.0013477088948787063
+"Network Server, Other",1,0.0013477088948787063
+"Laptop, Other Portable Electronic Device, Paper/Films",1,0.0013477088948787063
+"Other, Other Portable Electronic Device, Paper/Films",1,0.0013477088948787063
+"Other, Paper/Films",1,0.0013477088948787063

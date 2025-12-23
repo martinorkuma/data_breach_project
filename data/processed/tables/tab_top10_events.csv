@@ -1,0 +1,11 @@
+submission_date,month,state,covered_entity,entity_type,breach_type,breach_location,ba_present,individuals_affected
+2024-07-19,2024-07-01,MN,"Change Healthcare, Inc.",Business Associate,Hacking/IT Incident,Network Server,Yes,192700000
+2024-04-12,2024-04-01,CA,"Kaiser Foundation Health Plan, Inc.",Health Plan,Unauthorized Access/Disclosure,Network Server,No,13400000
+2024-07-03,2024-07-01,MO,Ascension Health,Healthcare Provider,Hacking/IT Incident,Network Server,No,5466931
+2025-06-06,2025-06-01,CA,"Episource, LLC",Business Associate,Hacking/IT Incident,Network Server,Yes,5418866
+2025-04-09,2025-04-01,CA,Blue Shield of California,Business Associate,Hacking/IT Incident,Network Server,Yes,4700000
+2024-08-09,2024-08-01,UT,"HealthEquity, Inc.",Business Associate,Hacking/IT Incident,Network Server,Yes,4300000
+2024-08-20,2024-08-01,LA,"Acadian Ambulance Service, Inc.",Healthcare Provider,Hacking/IT Incident,Network Server,No,2896985
+2024-05-24,2024-05-01,NE,A&A Services d/b/a Sav-Rx,Business Associate,Hacking/IT Incident,Network Server,Yes,2812336
+2025-08-01,2025-08-01,CO,DaVita Inc.,Healthcare Provider,Hacking/IT Incident,Network Server,No,2689826
+2024-05-08,2024-05-01,TX,"WebTPA Employer Services, LLC (“WebTPA”)",Business Associate,Hacking/IT Incident,Network Server,Yes,2518533
