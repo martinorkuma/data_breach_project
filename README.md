@@ -48,7 +48,7 @@ data-breach-project/
 All commands were run from a WSL (Ubuntu) terminal.
 
 ```{bash}
-# Create and activate virtual environment
+# Create and activate a virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
 
@@ -86,7 +86,7 @@ Output: Tables saved to data/processed/tables/
 
 Output: Figures saved to figs/
 
-3.  Report generation:
+4.  Report generation:
 
 ```{bash}
 python scripts/04_build_report.py
@@ -117,4 +117,5 @@ I also created a shell script to easily run all commands:
 -   All derived outputs were generated programmatically.
 
 -   The project can be reproduced on any Linux system (WSL) with Python 3.
+
 
