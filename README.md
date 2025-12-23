@@ -80,9 +80,9 @@ Output: Tables saved to data/processed/tables/
 
 3.  Visualizations:
 
-    ```{bash}
+```{bash}
     python scripts/03_visualizations.py 
-    ```
+```
 
 Output: Figures saved to figs/
 
@@ -117,3 +117,4 @@ I also created a shell script to easily run all commands:
 -   All derived outputs were generated programmatically.
 
 -   The project can be reproduced on any Linux system (WSL) with Python 3.
+
