@@ -62,7 +62,7 @@ Python dependencies include: pandas, pyarrow, matplotlib, and tabulate.
 
 The analysis is organized as a numbered, linear pipeline to ensure clarity and reproducibility.
 
-1.  Data loading and cleaning:
+1. Data loading and cleaning:
 
 ```{bash}
 python scripts/01_load_clean.py
@@ -70,7 +70,7 @@ python scripts/01_load_clean.py
 
 Outputs cleaned datasets (`.parquet` and `.csv`)
 
-2.  Exploratory data analysis (Tables):
+2. Exploratory data analysis (Tables):
 
 ```{bash}
 python scripts/02_eda_tables.py
@@ -78,7 +78,7 @@ python scripts/02_eda_tables.py
 
 Output: Tables saved to data/processed/tables/
 
-3.  Visualizations:
+3. Visualizations:
 
 ```{bash}
     python scripts/03_visualizations.py 
@@ -86,7 +86,7 @@ Output: Tables saved to data/processed/tables/
 
 Output: Figures saved to figs/
 
-4.  Report generation:
+4. Report generation:
 
 ```{bash}
 python scripts/04_build_report.py
@@ -117,5 +117,6 @@ I also created a shell script to easily run all commands:
 -   All derived outputs were generated programmatically.
 
 -   The project can be reproduced on any Linux system (WSL) with Python 3.
+
 
 
