@@ -48,7 +48,7 @@ data-breach-project/
 All commands were run from a WSL (Ubuntu) terminal.
 
 ```{bash}
-# Create and activate a virtual environment
+# Create and activate virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
 
@@ -117,6 +117,4 @@ I also created a shell script to easily run all commands:
 -   All derived outputs were generated programmatically.
 
 -   The project can be reproduced on any Linux system (WSL) with Python 3.
-
-
 
